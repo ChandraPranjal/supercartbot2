@@ -1,0 +1,27 @@
+{
+  "name": "chatwithpdf",
+  "version": "1.0.0",
+  "description": "contextual bot based on custom data",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "langchain",
+    "llm",
+    "js"
+  ],
+  "author": "ChandraPranjal",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.6",
+    "csv-parser": "^3.0.0",
+    "d3-dsv": "^2.0.0",
+    "dotenv": "^16.4.4",
+    "fs": "^0.0.1-security",
+    "install": "^0.13.0",
+    "langchain": "^0.1.20",
+    "npm": "^10.4.0"
+  }
+}

@@ -1,0 +1,3543 @@
+meta_data
+id 580489
+original_language en
+original_title venom: let there be carnage
+popularity 5401.308
+release_date 2021-09-30
+vote_average 6.8
+vote_count 1736
+revenue 424000000
+tagline 
+poster_url https://image.tmdb.org/t/p/original/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg
+adult false
+embedded_data
+genre
+['Science Fiction', 'Action', 'Adventure']
+overview After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.
+
+
+meta_data
+id 524434
+original_language en
+original_title eternals
+popularity 3365.535
+release_date 2021-11-03
+vote_average 7.1
+vote_count 622
+revenue 165000000
+tagline In the beginning...
+poster_url https://image.tmdb.org/t/p/original/zByhtBvX99ZiCQhac1sh9d9r6nb.jpg
+adult false
+embedded_data
+genre
+['Action', 'Adventure', 'Science Fiction', 'Fantasy']
+overview The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.
+
+
+meta_data
+id 438631
+original_language en
+original_title dune
+popularity 2911.423
+release_date 2021-09-15
+vote_average 8
+vote_count 3632
+revenue 331116356
+tagline Beyond fear, destiny awaits.
+poster_url https://image.tmdb.org/t/p/original/d5NXSklXo0qyIYkgV94XAgMIckC.jpg
+adult false
+embedded_data
+genre
+['Action', 'Adventure', 'Science Fiction']
+overview Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.
+
+
+meta_data
+id 438631
+original_language en
+original_title dune
+popularity 2911.423
+release_date 2021-09-15
+vote_average 8
+vote_count 3632
+revenue 331116356
+tagline Beyond fear, destiny awaits.
+poster_url https://image.tmdb.org/t/p/original/ngUaHgSZGkKy1Izwjk7qwZLOC5A.jpg
+adult false
+embedded_data
+genre
+['Action', 'Adventure', 'Science Fiction']
+overview Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.
+
+
+meta_data
+id 796499
+original_language en
+original_title army of thieves
+popularity 2552.437
+release_date 2021-10-27
+vote_average 6.9
+vote_count 555
+revenue 0
+tagline Before Vegas, one locksmith became a legend.
+poster_url https://image.tmdb.org/t/p/original/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg
+adult false
+embedded_data
+genre
+['Action', 'Crime', 'Thriller']
+overview A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.
+
+
+meta_data
+id 550988
+original_language en
+original_title free guy
+popularity 1850.47
+release_date 2021-08-11
+vote_average 7.8
+vote_count 3493
+revenue 331096766
+tagline Life's too short to be a background character.
+poster_url https://image.tmdb.org/t/p/original/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg
+adult false
+embedded_data
+genre
+['Comedy', 'Action', 'Adventure', 'Science Fiction']
+overview A bank teller called Guy realizes he is a background character in an open world video game called Free City that will soon go offline.
+
+
+meta_data
+id 574060
+original_language en
+original_title gunpowder milkshake
+popularity 1453.423
+release_date 2021-07-14
+vote_average 6.5
+vote_count 347
+revenue 344931
+tagline Revenge is best served ice cold.
+poster_url https://image.tmdb.org/t/p/original/5AaKulwpUtkscAokKWtLenGTfVS.jpg
+adult false
+embedded_data
+genre
+['Action', 'Thriller', 'Crime']
+overview In her turbulent life as a professional assassin, Sam has no choice but to go rogue to save the life of an innocent 8-year-old girl in the middle of the gang war she has unleashed.
+
+
+meta_data
+id 335983
+original_language en
+original_title venom
+popularity 1212.352
+release_date 2018-09-28
+vote_average 6.8
+vote_count 12126
+revenue 855013954
+tagline The world has enough Superheroes.
+poster_url https://image.tmdb.org/t/p/original/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
+adult false
+embedded_data
+genre
+['Science Fiction', 'Action']
+overview Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.
+
+
+meta_data
+id 335983
+original_language en
+original_title venom
+popularity 1212.352
+release_date 2018-09-28
+vote_average 6.8
+vote_count 12126
+revenue 855013954
+tagline The world has enough Superheroes.
+poster_url https://image.tmdb.org/t/p/original/hCMTpv1I9KK90ApxXDyaf8SwJcf.jpg
+adult false
+embedded_data
+genre
+['Science Fiction', 'Action']
+overview Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.
+
+
+meta_data
+id 610253
+original_language en
+original_title halloween kills
+popularity 1023.024
+release_date 2021-10-14
+vote_average 7
+vote_count 1134
+revenue 118852075
+tagline Evil dies tonight.
+poster_url https://image.tmdb.org/t/p/original/qmJGd5IfURq8iPQ9KF3les47vFS.jpg
+adult false
+embedded_data
+genre
+['Horror', 'Thriller']
+overview Minutes after Laurie Strode, her daughter Karen and granddaughter Allyson left masked monster Michael Myers caged and burning in Laurie's basement, Laurie is rushed to the hospital with life-threatening injuries, believing she finally killed her lifelong tormentor. But when Michael manages to free himself from Laurie's trap, his ritual bloodbath resumes. As Laurie fights her pain and prepares to defend herself against him, she inspires all of Haddonfield to rise up against their unstoppable monster. The Strode women join a group of other survivors of Michael's first rampage who decide to take matters into their own hands, forming a vigilante mob that sets out to hunt Michael down, once and for all.
+
+
+meta_data
+id 768449
+original_language en
+original_title american badger
+popularity 1148.822
+release_date 2021-03-05
+vote_average 6.3
+vote_count 14
+revenue 0
+tagline Justice Before Redemption
+poster_url https://image.tmdb.org/t/p/original/xoNWf2GnEF87a8SbpB1NvhX2zr0.jpg
+adult false
+embedded_data
+genre
+['Action', 'Thriller']
+overview A seemingly cold-blooded hitman is assigned to befriend a call girl, but all hell breaks loose when he is assigned to kill her.
+
+
+meta_data
+id 639721
+original_language en
+original_title the addams family 2
+popularity 1031.821
+release_date 2021-10-01
+vote_average 7.4
+vote_count 562
+revenue 93258233
+tagline Unhappy to see you again.
+poster_url https://image.tmdb.org/t/p/original/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Comedy', 'Family']
+overview The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.
+
+
+meta_data
+id 566525
+original_language en
+original_title shang-chi and the legend of the ten rings
+popularity 1327.18
+release_date 2021-09-01
+vote_average 7.7
+vote_count 1414
+revenue 427480601
+tagline You can't outrun your destiny.
+poster_url https://image.tmdb.org/t/p/original/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg
+adult false
+embedded_data
+genre
+['Action', 'Adventure', 'Fantasy']
+overview Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.
+
+
+meta_data
+id 568620
+original_language en
+original_title snake eyes: g.i. joe origins
+popularity 1052.222
+release_date 2021-07-22
+vote_average 6.9
+vote_count 786
+revenue 36964325
+tagline Every warrior has a beginning.
+poster_url https://image.tmdb.org/t/p/original/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg
+adult false
+embedded_data
+genre
+['Action', 'Adventure']
+overview After saving the life of their heir apparent, tenacious loner Snake Eyes is welcomed into an ancient Japanese clan called the Arashikage where he is taught the ways of the ninja warrior. But, when secrets from his past are revealed, Snake Eyes' honor and allegiance will be tested – even if that means losing the trust of those closest to him.
+
+
+meta_data
+id 630004
+original_language en
+original_title the vault
+popularity 1046.86
+release_date 2021-03-03
+vote_average 7.1
+vote_count 392
+revenue 0
+tagline No job is impossible.
+poster_url https://image.tmdb.org/t/p/original/kWhXubAiIcHW0xn5GThflqaKZqh.jpg
+adult false
+embedded_data
+genre
+['Crime', 'Action', 'Thriller']
+overview When an engineer learns of a mysterious, impenetrable fortress hidden under The Bank of Spain, he joins a crew of master thieves who plan to steal the legendary lost treasure locked inside while the whole country is distracted by Spain's World Cup Final. With thousands of soccer fans cheering in the streets, and security forces closing in, the crew have just minutes to pull off the score of a lifetime.
+
+
+meta_data
+id 672582
+original_language en
+original_title the deep house
+popularity 848.536
+release_date 2021-06-30
+vote_average 5.5
+vote_count 112
+revenue 0
+tagline Breathe while you still can.
+poster_url https://image.tmdb.org/t/p/original/5xhAPxRr64oQPEFnUOrttuI4ZEU.jpg
+adult false
+embedded_data
+genre
+['Horror']
+overview While diving in a remote French lake, a couple of YouTubers who specialize in underwater exploration videos discover a house submerged in the deep waters. What was initially a unique finding soon turns into a nightmare when they discover that the house was the scene of atrocious crimes. Trapped, with their oxygen reserves falling dangerously, they realize the worst is yet to come: they are not alone in the house.
+
+
+meta_data
+id 675319
+original_language en
+original_title zone 414
+popularity 797.785
+release_date 2021-09-03
+vote_average 5.8
+vote_count 86
+revenue 0
+tagline What hides in the city of robots?
+poster_url https://image.tmdb.org/t/p/original/bJIq2UwwrrVP033Mk3G5paUwYnp.jpg
+adult false
+embedded_data
+genre
+['Science Fiction', 'Thriller', 'Mystery']
+overview In the near future on a colony of state-of-the-art robots, a private investigator is hired by the colony's creator to bring his missing daughter home.
+
+
+meta_data
+id 645788
+original_language en
+original_title the protégé
+popularity 832.048
+release_date 2021-08-19
+vote_average 6.8
+vote_count 330
+revenue 8115215
+tagline Wherever you run, the past follows...
+poster_url https://image.tmdb.org/t/p/original/o9FY8N5c8CXf22q8s4CmRRjAQJx.jpg
+adult false
+embedded_data
+genre
+['Action', 'Crime', 'Thriller']
+overview Rescued as a child by the legendary assassin Moody and trained in the family business, Anna is the world’s most skilled contract killer. When Moody, the man who was like a father to her and taught her everything she needs to know about trust and survival, is brutally killed, Anna vows revenge. As she becomes entangled with an enigmatic killer whose attraction to her goes way beyond cat and mouse, their confrontation turns deadly and the loose ends of a life spent killing will weave themselves ever tighter.
+
+
+meta_data
+id 436969
+original_language en
+original_title the suicide squad
+popularity 807.497
+release_date 2021-07-28
+vote_average 7.8
+vote_count 4695
+revenue 167381210
+tagline They're dying to save the world.
+poster_url https://image.tmdb.org/t/p/original/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg
+adult false
+embedded_data
+genre
+['Action', 'Adventure', 'Fantasy']
+overview Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.
+
+
+meta_data
+id 703771
+original_language en
+original_title deathstroke: knights & dragons - the movie
+popularity 787.704
+release_date 2020-08-04
+vote_average 7
+vote_count 294
+revenue 0
+tagline Never give a paid killer a reason to work for free
+poster_url https://image.tmdb.org/t/p/original/vFIHbiy55smzi50RmF8LQjmpGcx.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Action', 'Adventure', 'Science Fiction']
+overview The assassin Deathstroke tries to save his family from the wrath of H.I.V.E. and the murderous Jackal.
+
+
+meta_data
+id 459151
+original_language en
+original_title the boss baby: family business
+popularity 761.177
+release_date 2021-07-01
+vote_average 7.7
+vote_count 1582
+revenue 112000000
+tagline Playtime is over.
+poster_url https://image.tmdb.org/t/p/original/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Comedy', 'Adventure', 'Family']
+overview The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again … and inspire a new family business.
+
+
+meta_data
+id 820511
+original_language en
+original_title ripper untold
+popularity 678.956
+release_date 2021-06-28
+vote_average 6.5
+vote_count 47
+revenue 0
+tagline 1888, a bloodbath in Whitechapel. No one is safe.
+poster_url https://image.tmdb.org/t/p/original/4msDckyD51Fx3qzVRHtb3lFHo2c.jpg
+adult false
+embedded_data
+genre
+['Horror']
+overview A detective and a medical examiner join forces to solve a series of horrific murders in Victorian London - but one of them harbours a deadly secret.
+
+
+meta_data
+id 772436
+original_language es
+original_title matando cabos 2: la máscara del máscara
+popularity 693.568
+release_date 2021-10-01
+vote_average 7.9
+vote_count 57
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/vu3CfSqxNzmnSU8SrWLDTHzspk9.jpg
+adult false
+embedded_data
+genre
+['Action', 'Comedy', 'Adventure']
+overview Faced with the unexpected death of his estranged father -El Máscara- and the subsequent theft of his precious mask, Rubén -Mascarita- will find himself confronted with his past. Alongside his invincible bodyguard Tony "The Cannibal" and, an unexpected ally, he will have only one day to recover it and make amends with the memory of his father.
+
+
+meta_data
+id 385128
+original_language en
+original_title f9
+popularity 701.647
+release_date 2021-05-19
+vote_average 7.4
+vote_count 4302
+revenue 721077945
+tagline Justice is coming.
+poster_url https://image.tmdb.org/t/p/original/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg
+adult false
+embedded_data
+genre
+['Action', 'Crime', 'Thriller']
+overview Dominic Toretto and his crew battle the most skilled assassin and high-performance driver they've ever encountered: his forsaken brother.
+
+
+meta_data
+id 451048
+original_language en
+original_title jungle cruise
+popularity 683.909
+release_date 2021-07-28
+vote_average 7.8
+vote_count 3111
+revenue 213644366
+tagline 
+poster_url https://image.tmdb.org/t/p/original/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg
+adult false
+embedded_data
+genre
+['Adventure', 'Fantasy', 'Comedy', 'Action']
+overview Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal – a discovery that will change the future of medicine.
+
+
+meta_data
+id 508943
+original_language en
+original_title luca
+popularity 639.636
+release_date 2021-06-17
+vote_average 8
+vote_count 5020
+revenue 49010641
+tagline 
+poster_url https://image.tmdb.org/t/p/original/jTswp6KyDYKtvC52GbHagrZbGvD.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Comedy', 'Family', 'Fantasy']
+overview Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.
+
+
+meta_data
+id 497698
+original_language en
+original_title black widow
+popularity 624.488
+release_date 2021-07-07
+vote_average 7.7
+vote_count 5823
+revenue 378328978
+tagline Her world. Her secrets. Her legacy.
+poster_url https://image.tmdb.org/t/p/original/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg
+adult false
+embedded_data
+genre
+['Action', 'Adventure', 'Science Fiction']
+overview Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.
+
+
+meta_data
+id 497698
+original_language en
+original_title black widow
+popularity 624.488
+release_date 2021-07-07
+vote_average 7.7
+vote_count 5823
+revenue 378328978
+tagline Her world. Her secrets. Her legacy.
+poster_url https://image.tmdb.org/t/p/original/5tcDPhQ7MoLiWXW8dWMJf4IBuRA.jpg
+adult false
+embedded_data
+genre
+['Action', 'Adventure', 'Science Fiction']
+overview Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.
+
+
+meta_data
+id 760195
+original_language en
+original_title separation
+popularity 557.939
+release_date 2021-04-30
+vote_average 6
+vote_count 77
+revenue 0
+tagline It won't let go.
+poster_url https://image.tmdb.org/t/p/original/lHbSC2Np17CRsRXIbaE0YY1Hora.jpg
+adult false
+embedded_data
+genre
+['Horror']
+overview A young girl finds solace in her artist father and the ghost of her dead mother.
+
+
+meta_data
+id 675445
+original_language en
+original_title paw patrol: the movie
+popularity 596.854
+release_date 2021-08-09
+vote_average 7.7
+vote_count 660
+revenue 121000000
+tagline Our fate is in their paws.
+poster_url https://image.tmdb.org/t/p/original/ic0intvXZSfBlYPIvWXpU1ivUCO.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Family', 'Adventure', 'Comedy']
+overview Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.
+
+
+meta_data
+id 744275
+original_language en
+original_title after we fell
+popularity 625.512
+release_date 2021-09-01
+vote_average 7.4
+vote_count 766
+revenue 19000000
+tagline 
+poster_url https://image.tmdb.org/t/p/original/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg
+adult false
+embedded_data
+genre
+['Romance', 'Drama']
+overview Just as Tessa's life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she's been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.
+
+
+meta_data
+id 839436
+original_language en
+original_title dragon fury
+popularity 580.002
+release_date 2021-06-15
+vote_average 6
+vote_count 21
+revenue 0
+tagline They thought they could control it. They were wrong!
+poster_url https://image.tmdb.org/t/p/original/6WcJ4cV2Y3gnTYp5zHu968TYmTJ.jpg
+adult false
+embedded_data
+genre
+['Horror', 'Fantasy', 'Mystery']
+overview A group of soldiers are taken to the mountains of Wales to investigate a strange beast.
+
+
+meta_data
+id 874948
+original_language tr
+original_title kin
+popularity 579.316
+release_date 2021-10-08
+vote_average 6.6
+vote_count 32
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/oPE5GXHaTlu5eRcd4USuOX3A1mf.jpg
+adult false
+embedded_data
+genre
+['Crime', 'Drama', 'Thriller']
+overview Ahead of a promotion, a police chief becomes entangled in a deadly incident and uncovers an intrigue fueled by grudge that threatens his colleagues.
+
+
+meta_data
+id 864873
+original_language en
+original_title hypnotic
+popularity 514.169
+release_date 2021-10-27
+vote_average 6.2
+vote_count 214
+revenue 0
+tagline His wish is her command.
+poster_url https://image.tmdb.org/t/p/original/miEj4kNc4efZ5WbPJqWl1UXWrvS.jpg
+adult false
+embedded_data
+genre
+['Thriller', 'Drama', 'Horror']
+overview A young woman seeking self-improvement enlists the help of a renowned hypnotist but, after a handful of intense sessions, discovers unexpected and deadly consequences.
+
+
+meta_data
+id 354912
+original_language en
+original_title coco
+popularity 573.567
+release_date 2017-10-27
+vote_average 8.2
+vote_count 14756
+revenue 800526015
+tagline The celebration of a lifetime
+poster_url https://image.tmdb.org/t/p/original/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg
+adult false
+embedded_data
+genre
+['Family', 'Animation', 'Fantasy', 'Music', 'Comedy', 'Adventure']
+overview Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.
+
+
+meta_data
+id 812204
+original_language en
+original_title rock dog 2: rock around the park
+popularity 611.612
+release_date 2021-06-24
+vote_average 7.6
+vote_count 25
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/kETYRGA15L0wkVPugSl8lKmSgFn.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Comedy', 'Music', 'Family']
+overview When Bodi and his band 'True Blue' leave Snow Mountain, to tour with pop sensation, Lil' Foxy, they learn that fame comes at a price.
+
+
+meta_data
+id 379686
+original_language en
+original_title space jam: a new legacy
+popularity 525.266
+release_date 2021-07-08
+vote_average 7.3
+vote_count 2550
+revenue 148810604
+tagline Welcome to the Jam!
+poster_url https://image.tmdb.org/t/p/original/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Comedy', 'Family', 'Science Fiction']
+overview When LeBron and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes to victory over the A.I.'s digitized champions on the court. It's Tunes versus Goons in the highest-stakes challenge of his life.
+
+
+meta_data
+id 637649
+original_language en
+original_title wrath of man
+popularity 541.957
+release_date 2021-04-22
+vote_average 7.8
+vote_count 2598
+revenue 103966489
+tagline A one man army.
+poster_url https://image.tmdb.org/t/p/original/M7SUK85sKjaStg4TKhlAVyGlz3.jpg
+adult false
+embedded_data
+genre
+['Action', 'Crime', 'Thriller']
+overview A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman's ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.
+
+
+meta_data
+id 524369
+original_language en
+original_title the many saints of newark
+popularity 593.17
+release_date 2021-09-22
+vote_average 6.8
+vote_count 201
+revenue 11620603
+tagline Who made Tony Soprano?
+poster_url https://image.tmdb.org/t/p/original/1UkbPQspPbq1FPbFP4VV1ELCfSN.jpg
+adult false
+embedded_data
+genre
+['Crime', 'Drama']
+overview Young Anthony Soprano is growing up in one of the most tumultuous eras in Newark, N.J., history, becoming a man just as rival gangsters start to rise up and challenge the all-powerful DiMeo crime family. Caught up in the changing times is the uncle he idolizes, Dickie Moltisanti, whose influence over his nephew will help shape the impressionable teenager into the all-powerful mob boss, Tony Soprano.
+
+
+meta_data
+id 777620
+original_language en
+original_title caged
+popularity 475.873
+release_date 2021-01-26
+vote_average 6.6
+vote_count 39
+revenue 0
+tagline There is no getting out.
+poster_url https://image.tmdb.org/t/p/original/8NUM43rtQSt0chumXGJPvnYb01I.jpg
+adult false
+embedded_data
+genre
+['Thriller', 'Horror']
+overview An African American male is imprisoned and placed in solitary confinement after being found guilty of murdering his wife, as he's haunted by internal demons and his dead wife, and pushed to the breaking point by an abusive female guard.
+
+
+meta_data
+id 831405
+original_language en
+original_title injustice
+popularity 563.221
+release_date 2021-10-09
+vote_average 8
+vote_count 339
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/rzrSeqqpm1BwJ3tcTznztBtLLSD.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Science Fiction', 'Fantasy', 'Action']
+overview When Lois Lane is killed, an unhinged Superman decides to take control of the Earth. Determined to stop him, Batman creates a team of freedom-fighting heroes. But when superheroes go to war, can the world survive?
+
+
+meta_data
+id 681887
+original_language en
+original_title cosmic sin
+popularity 503.598
+release_date 2021-03-12
+vote_average 4.4
+vote_count 363
+revenue 0
+tagline First contact has been made. It's war.
+poster_url https://image.tmdb.org/t/p/original/6Wm7P6y22UZA40QuPYHyWyJ6leI.jpg
+adult false
+embedded_data
+genre
+['Science Fiction']
+overview In the year 2524, four centuries after humans started colonizing the outer planets, retired General James Ford gets called back into service when a hostile alien fleet attacks soldiers on a remote planet. The threat against mankind soon escalates into an interstellar war as Ford and a team of elite soldiers try to stop the imminent attack before it's too late.
+
+
+meta_data
+id 337404
+original_language en
+original_title cruella
+popularity 510.735
+release_date 2021-05-26
+vote_average 8.3
+vote_count 5879
+revenue 233274812
+tagline Hello Cruel World
+poster_url https://image.tmdb.org/t/p/original/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg
+adult false
+embedded_data
+genre
+['Comedy', 'Crime']
+overview In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.
+
+
+meta_data
+id 460465
+original_language en
+original_title mortal kombat
+popularity 495.192
+release_date 2021-04-07
+vote_average 7.3
+vote_count 4000
+revenue 83601013
+tagline Get over here.
+poster_url https://image.tmdb.org/t/p/original/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg
+adult false
+embedded_data
+genre
+['Action', 'Fantasy', 'Adventure']
+overview Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.
+
+
+meta_data
+id 460465
+original_language en
+original_title mortal kombat
+popularity 495.192
+release_date 2021-04-07
+vote_average 7.3
+vote_count 4000
+revenue 83601013
+tagline Get over here.
+poster_url https://image.tmdb.org/t/p/original/fcK7tzSSXMYiMN8E9KlZJL1BYyp.jpg
+adult false
+embedded_data
+genre
+['Action', 'Fantasy', 'Adventure']
+overview Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.
+
+
+meta_data
+id 774021
+original_language en
+original_title demonic
+popularity 422.784
+release_date 2021-07-29
+vote_average 4.9
+vote_count 74
+revenue 0
+tagline It's not a dream, it's not reality.
+poster_url https://image.tmdb.org/t/p/original/pUK9duiCK1PKqWA5rRQ4XBMHITH.jpg
+adult false
+embedded_data
+genre
+['Horror', 'Thriller']
+overview A young woman unleashes terrifying demons when supernatural forces at the root of a decades-old rift between mother and daughter are ruthlessly revealed.
+
+
+meta_data
+id 588228
+original_language en
+original_title the tomorrow war
+popularity 439.548
+release_date 2021-07-02
+vote_average 8.1
+vote_count 4522
+revenue 0
+tagline The fight for tomorrow begins today.
+poster_url https://image.tmdb.org/t/p/original/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg
+adult false
+embedded_data
+genre
+['Action', 'Science Fiction', 'Adventure']
+overview The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.
+
+
+meta_data
+id 581726
+original_language en
+original_title infinite
+popularity 430.839
+release_date 2021-09-09
+vote_average 6.9
+vote_count 553
+revenue 0
+tagline Many lives. Unlimited potential.
+poster_url https://image.tmdb.org/t/p/original/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg
+adult false
+embedded_data
+genre
+['Science Fiction', 'Action', 'Thriller']
+overview Evan McCauley has skills he never learned and memories of places he has never visited. Self-medicated and on the brink of a mental breakdown, a secret group that call themselves “Infinites” come to his rescue, revealing that his memories are real.
+
+
+meta_data
+id 631843
+original_language en
+original_title old
+popularity 427.735
+release_date 2021-07-21
+vote_average 6.7
+vote_count 1593
+revenue 89500000
+tagline It's only a matter of time.
+poster_url https://image.tmdb.org/t/p/original/vclShucpUmPhdAOmKgf3B3Z4POD.jpg
+adult false
+embedded_data
+genre
+['Thriller', 'Mystery', 'Horror']
+overview A group of families on a tropical holiday discover that the secluded beach where they are staying is somehow causing them to age rapidly – reducing their entire lives into a single day.
+
+
+meta_data
+id 882206
+original_language en
+original_title lol surprise: the movie
+popularity 414.698
+release_date 2021-10-08
+vote_average 7.5
+vote_count 31
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/vbc8H3SR3BM6TZkJw6UBN4ekdjK.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Family']
+overview Dazzling doll sisters Queen Bee and Royal Bee make their first movie with help from their fashionable friends in this one-of-a-kind magical adventure.
+
+
+meta_data
+id 588921
+original_language en
+original_title ainbo: spirit of the amazon
+popularity 400.934
+release_date 2021-02-09
+vote_average 7.2
+vote_count 220
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/l8HyObVj8fPrzacAPtGWWLDhcfh.jpg
+adult false
+embedded_data
+genre
+['Adventure', 'Animation', 'Family', 'Fantasy']
+overview An epic journey of a young hero and her Spirit Guides, 'Dillo' a cute and humorous armadillo and "Vaca" a goofy oversized tapir, who embark on a quest to save their home in the spectacular Amazon Rainforest.
+
+
+meta_data
+id 375211
+original_language en
+original_title marvel knights: eternals
+popularity 429.973
+release_date 2014-09-16
+vote_average 5.6
+vote_count 5
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/wVWDDzB0sWEIEMh0TXgqRa8X65o.jpg
+adult false
+embedded_data
+genre
+['Animation']
+overview You are thousands of years old. You have amazing powers. You have watched civilizations rise and fall. So why does no one remember any of this? Best-selling author, Neil Gaiman (Marvel: 1602) is joined by superstar artist, John Romita. Jr. (Amazing Spider-Man), to bring you the extraordinary tale of The Eternals. Medical student Mark Curry's world is turned upside-down when he meets Ike Harris, a man who believes that he is part of a centuries-old race of super-powered beings put here on Earth by aliens to preserve and safeguard the planet — and even crazier, tried to convince Mark that he is one too.
+
+
+meta_data
+id 791373
+original_language en
+original_title zack snyder's justice league
+popularity 410.965
+release_date 2021-03-18
+vote_average 8.4
+vote_count 6803
+revenue 657000000
+tagline 
+poster_url https://image.tmdb.org/t/p/original/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg
+adult false
+embedded_data
+genre
+['Action', 'Adventure', 'Fantasy', 'Science Fiction']
+overview Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.
+
+
+meta_data
+id 634649
+original_language en
+original_title spider-man: no way home
+popularity 480.702
+release_date 2021-12-15
+vote_average 0
+vote_count 0
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg
+adult false
+embedded_data
+genre
+['Action', 'Adventure', 'Science Fiction']
+overview Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a Super Hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.
+
+
+meta_data
+id 370172
+original_language en
+original_title no time to die
+popularity 604.254
+release_date 2021-09-29
+vote_average 7.4
+vote_count 1209
+revenue 667000000
+tagline The mission that changes everything begins…
+poster_url https://image.tmdb.org/t/p/original/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg
+adult false
+embedded_data
+genre
+['Adventure', 'Action', 'Thriller']
+overview Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.
+
+
+meta_data
+id 706972
+original_language en
+original_title narco sub
+popularity 374.848
+release_date 2021-01-22
+vote_average 7.1
+vote_count 59
+revenue 0
+tagline A man will become a criminal to save his family.
+poster_url https://image.tmdb.org/t/p/original/7p0O4mKYLIhU2E5Zcq9Z3vOZ4e9.jpg
+adult false
+embedded_data
+genre
+['Action', 'Drama', 'Crime']
+overview A man will become a criminal to save his family.  Director: Shawn Welling  Writer: Derek H. Potts  Stars: Tom Vera, Tom Sizemore, Lee Majors |
+
+
+meta_data
+id 669671
+original_language en
+original_title night teeth
+popularity 367.303
+release_date 2021-10-20
+vote_average 6.8
+vote_count 299
+revenue 0
+tagline Paint the town red.
+poster_url https://image.tmdb.org/t/p/original/4niEFGAUEz3GUqwk9Y2y4aAERhE.jpg
+adult false
+embedded_data
+genre
+['Horror', 'Thriller', 'Action']
+overview A college student moonlighting as a chauffeur picks up two mysterious women for a night of party-hopping across LA. But when he uncovers their bloodthirsty intentions - and their dangerous, shadowy underworld - he must fight to stay alive.
+
+
+meta_data
+id 503736
+original_language en
+original_title army of the dead
+popularity 364.974
+release_date 2021-05-14
+vote_average 6.4
+vote_count 2514
+revenue 780000
+tagline Survivors take all.
+poster_url https://image.tmdb.org/t/p/original/z8CExJekGrEThbpMXAmCFvvgoJR.jpg
+adult false
+embedded_data
+genre
+['Action', 'Adventure', 'Crime', 'Horror']
+overview Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.
+
+
+meta_data
+id 19995
+original_language en
+original_title avatar
+popularity 374.059
+release_date 2009-12-10
+vote_average 7.5
+vote_count 24280
+revenue 2847246203
+tagline Enter the World of Pandora.
+poster_url https://image.tmdb.org/t/p/original/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg
+adult false
+embedded_data
+genre
+['Action', 'Adventure', 'Fantasy', 'Science Fiction']
+overview In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.
+
+
+meta_data
+id 619297
+original_language en
+original_title sweet girl
+popularity 360.21
+release_date 2021-08-18
+vote_average 6.9
+vote_count 697
+revenue 0
+tagline Family fights as one.
+poster_url https://image.tmdb.org/t/p/original/cP7odDzzFBD9ycxj2laTeFWGLjD.jpg
+adult false
+embedded_data
+genre
+['Action']
+overview A devastated husband vows to bring justice to the people responsible for his wife's death while protecting the only family he has left, his daughter.
+
+
+meta_data
+id 399566
+original_language en
+original_title godzilla vs. kong
+popularity 393.812
+release_date 2021-03-24
+vote_average 7.9
+vote_count 7185
+revenue 467863133
+tagline One Will Fall
+poster_url https://image.tmdb.org/t/p/original/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg
+adult false
+embedded_data
+genre
+['Action', 'Adventure', 'Fantasy']
+overview In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.
+
+
+meta_data
+id 767304
+original_language en
+original_title redemption day
+popularity 360.237
+release_date 2021-01-08
+vote_average 6.7
+vote_count 150
+revenue 0
+tagline Taking his wife was their last mistake.
+poster_url https://image.tmdb.org/t/p/original/y1Tk1LUwS3nRlugiXnag6Bu1ToG.jpg
+adult false
+embedded_data
+genre
+['Action']
+overview Having just returned home, decorated U.S. Marine Captain Brad Paxton's wife, Kate, is kidnapped by a terrorist group while working in Morocco. He is forced back into action for a daring and deadly operation to save the woman he loves.
+
+
+meta_data
+id 840756
+original_language es
+original_title mi otra yo
+popularity 501.068
+release_date 2021-06-15
+vote_average 6.3
+vote_count 3
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/11z4nAYm1ZYIEzTvG0dzyKDBn6R.jpg
+adult false
+embedded_data
+genre
+['Comedy']
+overview A controversial TV host and comedian who has built his career on sexist humor is forced to assume a woman's identity to elude a relentless drug dealer.
+
+
+meta_data
+id 482373
+original_language en
+original_title don't breathe 2
+popularity 366.157
+release_date 2021-08-12
+vote_average 7.7
+vote_count 1114
+revenue 45000000
+tagline Bad things happen to bad people.
+poster_url https://image.tmdb.org/t/p/original/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg
+adult false
+embedded_data
+genre
+['Thriller', 'Horror']
+overview The Blind Man has been hiding out for several years in an isolated cabin and has taken in and raised a young girl orphaned from a devastating house fire. Their quiet life together is shattered when a group of criminals kidnap the girl, forcing the Blind Man to leave his safe haven to save her.
+
+
+meta_data
+id 423108
+original_language en
+original_title the conjuring: the devil made me do it
+popularity 311.759
+release_date 2021-05-25
+vote_average 7.8
+vote_count 3856
+revenue 199166992
+tagline The demonic case that shocked America.
+poster_url https://image.tmdb.org/t/p/original/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg
+adult false
+embedded_data
+genre
+['Horror', 'Mystery', 'Thriller']
+overview Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they'd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.
+
+
+meta_data
+id 522402
+original_language en
+original_title finch
+popularity 549.884
+release_date 2021-11-04
+vote_average 8
+vote_count 522
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg
+adult false
+embedded_data
+genre
+['Science Fiction', 'Drama', 'Adventure']
+overview On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator's beloved dog, learns about life, love, friendship, and what it means to be human.
+
+
+meta_data
+id 453354
+original_language fr
+original_title ava
+popularity 367.131
+release_date 2017-06-21
+vote_average 6
+vote_count 121
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/cUI1PFsrQVJR3IZOpkfsOOOUhTO.jpg
+adult false
+embedded_data
+genre
+['Drama']
+overview Ava, 13, is spending the summer on the Atlantic coast when she learns that she will lose her sight sooner than expected. Her mother decides to act as if everything were normal so as to spend their best summer ever. Ava confronts the problem in her own way. She steals a big black dog that belongs to a young man on the run...
+
+
+meta_data
+id 453354
+original_language fr
+original_title ava
+popularity 367.131
+release_date 2017-06-21
+vote_average 6
+vote_count 121
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg
+adult false
+embedded_data
+genre
+['Drama']
+overview Ava, 13, is spending the summer on the Atlantic coast when she learns that she will lose her sight sooner than expected. Her mother decides to act as if everything were normal so as to spend their best summer ever. Ava confronts the problem in her own way. She steals a big black dog that belongs to a young man on the run...
+
+
+meta_data
+id 725273
+original_language en
+original_title solitary
+popularity 347.349
+release_date 2020-08-31
+vote_average 5.8
+vote_count 59
+revenue 0
+tagline The greatest punishment imaginable.
+poster_url https://image.tmdb.org/t/p/original/ApwmbrMlsuOay5rXQA4Kbz7qJAl.jpg
+adult false
+embedded_data
+genre
+['Science Fiction']
+overview A man wakes up inside a room to discover he's a prisoner sent into space to form Earth's first colony, and worse - his cell mate Alana is hell bent on destroying everything.
+
+
+meta_data
+id 859860
+original_language en
+original_title catch the bullet
+popularity 363.643
+release_date 2021-09-10
+vote_average 5.6
+vote_count 67
+revenue 0
+tagline The sun never sets on vengeance.
+poster_url https://image.tmdb.org/t/p/original/7PoomidF9HlMKXcAyOJ87lGkhSp.jpg
+adult false
+embedded_data
+genre
+['Western', 'Action']
+overview U.S. marshal Britt MacMasters returns from a mission to find his father wounded and his son kidnapped by the outlaw Jed Blake. Hot on their trail, Britt forms a posse with a gunslinging deputy and a stoic Pawnee tracker. But Jed and Britt tread dangerously close to the Red Desert’s Sioux territory.
+
+
+meta_data
+id 825997
+original_language en
+original_title rogue hostage
+popularity 340.663
+release_date 2021-06-11
+vote_average 6.4
+vote_count 101
+revenue 0
+tagline Free the hostages. Or everyone dies.
+poster_url https://image.tmdb.org/t/p/original/ePYagdzUwKpzTP73n9CD3D1MFn.jpg
+adult false
+embedded_data
+genre
+['Action', 'Thriller']
+overview A former Marine races against time to save a group of hostages -- including his young daughter and a congressman — when armed militants take over his stepfather's store.
+
+
+meta_data
+id 719164
+original_language en
+original_title women
+popularity 219.924
+release_date 2021-04-08
+vote_average 6.1
+vote_count 14
+revenue 0
+tagline Don't Scream. Don't Run. Survive.
+poster_url https://image.tmdb.org/t/p/original/yTgSMm9LRXVGxfaKqmlPCcQx5RJ.jpg
+adult false
+embedded_data
+genre
+['Thriller']
+overview A small town detective while investigating the disappearance of a local woman comes across an unassuming Sociology professor who is hiding a secret life.
+
+
+meta_data
+id 602223
+original_language en
+original_title the forever purge
+popularity 321.093
+release_date 2021-06-30
+vote_average 7.4
+vote_count 1396
+revenue 76981630
+tagline The rules are broken.
+poster_url https://image.tmdb.org/t/p/original/lB068qa6bQ0QKYKyC2xnYGvYjl7.jpg
+adult false
+embedded_data
+genre
+['Horror', 'Action', 'Thriller']
+overview All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end as they chase a group of immigrants who they want to punish because of their harsh historical past.
+
+
+meta_data
+id 595743
+original_language en
+original_title sas: red notice
+popularity 328.657
+release_date 2021-08-11
+vote_average 6
+vote_count 259
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/6Y9fl8tD1xtyUrOHV2MkCYTpzgi.jpg
+adult false
+embedded_data
+genre
+['Drama', 'Action', 'Thriller']
+overview An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train running through the Channel Tunnel. As the action escalates on the train, events transpire in the corridors of power that may make the difference as to whether Buckingham and the civilian passengers make it out of the tunnel alive.
+
+
+meta_data
+id 741636
+original_language en
+original_title bloodthirsty
+popularity 334.459
+release_date 2021-04-23
+vote_average 6.6
+vote_count 16
+revenue 0
+tagline Ambition can be killer.
+poster_url https://image.tmdb.org/t/p/original/gCQm6zqkRiyrezyYK02NymDlybJ.jpg
+adult false
+embedded_data
+genre
+['Horror']
+overview When indie singer Grey struggles to write her sophomore album, she teams up with a mysterious producer at his secluded cabin. Though their bond strengthens her music, it also starts to irreparably alter Grey’s body and mind.
+
+
+meta_data
+id 1930
+original_language en
+original_title the amazing spider-man
+popularity 369.323
+release_date 2012-06-23
+vote_average 6.6
+vote_count 13495
+revenue 757930663
+tagline The untold story begins.
+poster_url https://image.tmdb.org/t/p/original/fSbqPbqXa7ePo8bcnZYN9AHv6zA.jpg
+adult false
+embedded_data
+genre
+['Action', 'Adventure', 'Fantasy']
+overview Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance – leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.
+
+
+meta_data
+id 848278
+original_language en
+original_title jurassic hunt
+popularity 305.718
+release_date 2021-08-26
+vote_average 5
+vote_count 153
+revenue 0
+tagline This time it's mankind that's going extinct.
+poster_url https://image.tmdb.org/t/p/original/bZnOioDq1ldaxKfUoj3DenHU7mp.jpg
+adult false
+embedded_data
+genre
+['Action', 'Science Fiction', 'Thriller']
+overview Female adventurer Parker joins a crew of male trophy hunters in a remote wilderness park. Their goal: slaughter genetically recreated dinosaurs for sport using rifles, arrows, and grenades. After their guide is killed by raptors, the team tries to escape the park – but the hunters quickly become the hunted. Even worse, the park’s manager suspects Parker of being a spy and sends a hit squad after her. This battle’s about to become primitive!
+
+
+meta_data
+id 13811
+original_language en
+original_title knowing
+popularity 314.469
+release_date 2009-03-19
+vote_average 6.1
+vote_count 4067
+revenue
+tagline 121
+poster_url What happens when the numbers run out?
+adult false
+embedded_data
+genre
+['Action', 'Mystery', 'Science Fiction', 'Thriller']
+overview A teacher opens a time capsule that has been dug up at his son's elementary school
+
+
+meta_data
+id 813258
+original_language en
+original_title monster pets: a hotel transylvania short
+popularity 307.614
+release_date 2021-04-02
+vote_average 7.5
+vote_count 254
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/tuzkEyCPwf5O56fDjGNerIA8hxT.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Comedy', 'Fantasy']
+overview Drac tries out some new monster pets to help occupy Tinkles for playtime.
+
+
+meta_data
+id 512195
+original_language en
+original_title red notice
+popularity 282.641
+release_date 2021-11-05
+vote_average 7.4
+vote_count 19
+revenue 0
+tagline Pro and cons.
+poster_url https://image.tmdb.org/t/p/original/lAXONuqg41NwUMuzMiFvicDET9Y.jpg
+adult false
+embedded_data
+genre
+['Action', 'Comedy', 'Crime', 'Thriller']
+overview An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.
+
+
+meta_data
+id 878962
+original_language en
+original_title sharkdog’s fintastic halloween
+popularity 261.208
+release_date 2021-10-15
+vote_average 3.7
+vote_count 3
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/mtPok0matqyS25yBXnNmKt6NfUU.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Fantasy', 'Family']
+overview The Sharkpack gets ready for Halloween with the spooky legend of the "Fearsome Fog" — and Sharkdog must save trick-or-treating from a slimy sea monster!
+
+
+meta_data
+id 763873
+original_language en
+original_title under wraps
+popularity 273.852
+release_date 2021-10-01
+vote_average 7.1
+vote_count 41
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/2EnHRyHdboUWz120LDiAk2M2Lgc.jpg
+adult false
+embedded_data
+genre
+['Comedy', 'Family', 'Fantasy']
+overview Three friends try to save their mummified friend, Harold, from greedy criminals by returning him to his resting place before midnight on Halloween.
+
+
+meta_data
+id 843906
+original_language en
+original_title straight outta nowhere: scooby-doo! meets courage the cowardly dog
+popularity 310.694
+release_date 2021-09-14
+vote_average 8.3
+vote_count 221
+revenue 0
+tagline Ooga! Booga! Booga!
+poster_url https://image.tmdb.org/t/p/original/uIdMpWrQ30SHPINsy7LcPFloyvO.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Comedy', 'Mystery', 'Family', 'Fantasy']
+overview With Mystery, Inc. on the tail of a strange object in Nowhere, Kansas, the strange hometown of Eustice, Muriel, and Courage, the gang soon find themselves contending with a giant cicada monster and her winged warriors.
+
+
+meta_data
+id 527774
+original_language en
+original_title raya and the last dragon
+popularity 308.607
+release_date 2021-03-03
+vote_average 8.1
+vote_count 4514
+revenue 130000000
+tagline A quest to save her world.
+poster_url https://image.tmdb.org/t/p/original/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg
+adult false
+embedded_data
+genre
+['Family', 'Fantasy', 'Animation', 'Action', 'Adventure']
+overview Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.
+
+
+meta_data
+id 299536
+original_language en
+original_title avengers: infinity war
+popularity 307.188
+release_date 2018-04-25
+vote_average 8.3
+vote_count 23027
+revenue 2046239637
+tagline An entire universe. Once and for all.
+poster_url https://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
+adult false
+embedded_data
+genre
+['Adventure', 'Action', 'Science Fiction']
+overview As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.
+
+
+meta_data
+id 613504
+original_language en
+original_title after we collided
+popularity 299.644
+release_date 2020-09-02
+vote_average 7.3
+vote_count 4262
+revenue
+tagline 105
+poster_url Can love overcome the past?
+adult false
+embedded_data
+genre
+['Romance', 'Drama']
+overview Tessa finds herself struggling with her complicated relationship with Hardin
+
+
+meta_data
+id 539885
+original_language en
+original_title ava
+popularity 302.664
+release_date 2020-07-02
+vote_average 5.7
+vote_count 1785
+revenue 2987741
+tagline Kill. Or be killed.
+poster_url https://image.tmdb.org/t/p/original/cUI1PFsrQVJR3IZOpkfsOOOUhTO.jpg
+adult false
+embedded_data
+genre
+['Action', 'Crime', 'Drama', 'Thriller']
+overview A black ops assassin is forced to fight for her own survival after a job goes dangerously wrong.
+
+
+meta_data
+id 539885
+original_language en
+original_title ava
+popularity 302.664
+release_date 2020-07-02
+vote_average 5.7
+vote_count 1785
+revenue 2987741
+tagline Kill. Or be killed.
+poster_url https://image.tmdb.org/t/p/original/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg
+adult false
+embedded_data
+genre
+['Action', 'Crime', 'Drama', 'Thriller']
+overview A black ops assassin is forced to fight for her own survival after a job goes dangerously wrong.
+
+
+meta_data
+id 597316
+original_language en
+original_title my little pony: a new generation
+popularity 316.848
+release_date 2021-09-23
+vote_average 8.1
+vote_count 131
+revenue 0
+tagline Ride or Fly
+poster_url https://image.tmdb.org/t/p/original/hzq5XRGgm6NDMOW1idUvbpGqEkv.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Family', 'Fantasy', 'Comedy', 'Music', 'Adventure']
+overview Equestria's divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it.
+
+
+meta_data
+id 522444
+original_language en
+original_title black water: abyss
+popularity 274.301
+release_date 2020-07-09
+vote_average 5.1
+vote_count 284
+revenue 0
+tagline Descend into fear
+poster_url https://image.tmdb.org/t/p/original/pmAv14TPE2vKMIRrVeCd1Ll7K94.jpg
+adult false
+embedded_data
+genre
+['Horror', 'Thriller', 'Adventure', 'Mystery']
+overview An adventure-loving couple convince their friends to explore a remote, uncharted cave system in the forests of Northern Australia. With a tropical storm approaching, they abseil into the mouth of the cave, but when the caves start to flood, tensions rise as oxygen levels fall and the friends find themselves trapped. Unknown to them, the storm has also brought in a pack of dangerous and hungry crocodiles.
+
+
+meta_data
+id 680319
+original_language en
+original_title we broke up
+popularity 272.144
+release_date 2021-04-23
+vote_average 5.7
+vote_count 12
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/qPeSznx1YJkjKwd3B5yqRlxq0xD.jpg
+adult false
+embedded_data
+genre
+['Comedy']
+overview Lori and Doug break up right before Lori's sister's wedding and decide to pretend they're still together for the weekend as to not disrupt the fun.
+
+
+meta_data
+id 458576
+original_language en
+original_title monster hunter
+popularity 273.173
+release_date 2020-12-03
+vote_average 6.9
+vote_count 2236
+revenue 25814306
+tagline Behind our world, there is another.
+poster_url https://image.tmdb.org/t/p/original/1UCOF11QCw8kcqvce8LKOO6pimh.jpg
+adult false
+embedded_data
+genre
+['Action', 'Fantasy', 'Adventure']
+overview A portal transports Cpt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.
+
+
+meta_data
+id 36419
+original_language en
+original_title after.life
+popularity 387.777
+release_date 2009-11-07
+vote_average 6.1
+vote_count 803
+revenue 3606395
+tagline Life is the symptom. Death is the cure.
+poster_url https://image.tmdb.org/t/p/original/ty43RTdSBpL3VjBJWeRoKhFg7hF.jpg
+adult false
+embedded_data
+genre
+['Drama', 'Horror', 'Mystery', 'Thriller']
+overview Following a terrible car crash, a woman awakes to find an enigmatic mortician preparing her for burial.
+
+
+meta_data
+id 632357
+original_language en
+original_title the unholy
+popularity 263.412
+release_date 2021-03-31
+vote_average 6.9
+vote_count 1410
+revenue 30763855
+tagline Be careful who you pray to.
+poster_url https://image.tmdb.org/t/p/original/cFOWiYDQ8Nttmt0K6PU38L48wWK.jpg
+adult false
+embedded_data
+genre
+['Horror']
+overview Alice, a young hearing-impaired girl who, after a supposed visitation from the Virgin Mary, is inexplicably able to hear, speak and heal the sick. As word spreads and people from near and far flock to witness her miracles, a disgraced journalist hoping to revive his career visits the small New England town to investigate. When terrifying events begin to happen all around, he starts to question if these phenomena are the works of the Virgin Mary or something much more sinister.
+
+
+meta_data
+id 861057
+original_language en
+original_title swim
+popularity 273.818
+release_date 2021-08-13
+vote_average 7.4
+vote_count 16
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/pBSqH6avxduNAnXhyIkcAfcUMJ0.jpg
+adult false
+embedded_data
+genre
+['Horror', 'Action']
+overview A family gets trapped in their storm flooded vacation rental, tries to escape from a hungry shark that made it's way into the house.
+
+
+meta_data
+id 597891
+original_language en
+original_title kate
+popularity 270.225
+release_date 2021-09-10
+vote_average 6.8
+vote_count 740
+revenue 0
+tagline There's no time for mercy.
+poster_url https://image.tmdb.org/t/p/original/uJgdT1boTSP0dDIjdTgGleg71l4.jpg
+adult false
+embedded_data
+genre
+['Action', 'Thriller']
+overview After she's irreversibly poisoned, a ruthless criminal operative has less than 24 hours to exact revenge on her enemies and in the process forms an unexpected bond with the daughter of one of her past victims.
+
+
+meta_data
+id 846214
+original_language en
+original_title the simpsons: the good, the bart, and the loki
+popularity 276.105
+release_date 2021-07-07
+vote_average 7.6
+vote_count 431
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/rtMdtzywcAGOrF6t8fbxJBqpdcq.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Comedy', 'Family']
+overview Loki is banished from Asgard once again and must face his toughest opponents yet: the Simpsons and Springfield’s mightiest heroes. The God of Mischief teams up with Bart Simpson in the ultimate crossover event paying tribute to the Marvel Cinematic Universe of superheroes and villains.
+
+
+meta_data
+id 482321
+original_language en
+original_title ron's gone wrong
+popularity 287.164
+release_date 2021-10-15
+vote_average 7.3
+vote_count 41
+revenue 46000000
+tagline Best Friend Forever* (*battery life may vary)
+poster_url https://image.tmdb.org/t/p/original/7M0uwPgwvPONdFG0jk8TPK09xJU.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Science Fiction', 'Family', 'Comedy']
+overview In a world where walking, talking, digitally connected bots have become children's best friends, an 11-year-old finds that his robot buddy doesn't quite work the same as the others do.
+
+
+meta_data
+id 529203
+original_language en
+original_title the croods: a new age
+popularity 277.639
+release_date 2020-11-25
+vote_average 7.6
+vote_count 2621
+revenue 168285000
+tagline The future ain't what it used to be.
+poster_url https://image.tmdb.org/t/p/original/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Family', 'Adventure', 'Fantasy', 'Comedy']
+overview Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.
+
+
+meta_data
+id 678580
+original_language es
+original_title el mesero
+popularity 249.461
+release_date 2021-07-15
+vote_average 8.3
+vote_count 286
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/zvGC5jX5wQmU1GgPc0VGZz7Mtcs.jpg
+adult false
+embedded_data
+genre
+['Comedy']
+overview A waiter pretends to be an important businessman in order to reach the upper class through his entrepreneurial dreams.
+
+
+meta_data
+id 734265
+original_language en
+original_title love hard
+popularity 279.451
+release_date 2021-11-05
+vote_average 6.6
+vote_count 170
+revenue 0
+tagline A romantic comedy about the lies we tell for love.
+poster_url https://image.tmdb.org/t/p/original/oTkAFDZRLnqrXOrOwuy3Tvul0v5.jpg
+adult false
+embedded_data
+genre
+['Comedy', 'Romance']
+overview An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she’s been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.
+
+
+meta_data
+id 568124
+original_language en
+original_title encanto
+popularity 265.395
+release_date 2021-11-24
+vote_average 0
+vote_count 0
+revenue 0
+tagline There's a little magic in all of us ...almost all of us.
+poster_url https://image.tmdb.org/t/p/original/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg
+adult false
+embedded_data
+genre
+['Family', 'Music', 'Adventure', 'Animation', 'Fantasy']
+overview The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.
+
+
+meta_data
+id 324786
+original_language en
+original_title hacksaw ridge
+popularity 233.039
+release_date 2016-10-07
+vote_average 8.2
+vote_count 10136
+revenue 175302354
+tagline One of the greatest heroes in American history never fired a bullet.
+poster_url https://image.tmdb.org/t/p/original/fTuxNlgEm04PPFkr1xfK94Jn8BW.jpg
+adult false
+embedded_data
+genre
+['Drama', 'History', 'War']
+overview WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.
+
+
+meta_data
+id 634528
+original_language en
+original_title the marksman
+popularity 287.586
+release_date 2021-01-15
+vote_average 7.1
+vote_count 950
+revenue 22039969
+tagline Justice comes down to him.
+poster_url https://image.tmdb.org/t/p/original/6vcDalR50RWa309vBH1NLmG2rjQ.jpg
+adult false
+embedded_data
+genre
+['Action', 'Thriller', 'Crime']
+overview Jim Hanson’s quiet life is suddenly disturbed by two people crossing the US/Mexico border – a woman and her young son – desperate to flee a Mexican cartel. After a shootout leaves the mother dead, Jim becomes the boy’s reluctant defender. He embraces his role as Miguel’s protector and will stop at nothing to get him to safety, as they go on the run from the relentless assassins.
+
+
+meta_data
+id 763164
+original_language en
+original_title apex
+popularity 401.393
+release_date 2021-11-12
+vote_average 5.3
+vote_count 50
+revenue 0
+tagline The hunters will be hunted.
+poster_url https://image.tmdb.org/t/p/original/chTkFGToW5bsyw3hgLAe4S5Gt3.jpg
+adult false
+embedded_data
+genre
+['Action', 'Thriller', 'Science Fiction']
+overview Ex-cop James Malone is serving a life sentence for a crime he didn’t commit. He is offered a chance at freedom if he can survive a deadly game of Apex, in which six hunters pay for the pleasure of hunting another human on a remote island. He accepts, and once he arrives, all hell breaks loose.
+
+
+meta_data
+id 464052
+original_language en
+original_title wonder woman 1984
+popularity 267.785
+release_date 2020-12-16
+vote_average 6.6
+vote_count 6105
+revenue 165160005
+tagline A new era of wonder begins.
+poster_url https://image.tmdb.org/t/p/original/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg
+adult false
+embedded_data
+genre
+['Action', 'Adventure', 'Fantasy']
+overview A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.
+
+
+meta_data
+id 520763
+original_language en
+original_title a quiet place part ii
+popularity 252.028
+release_date 2021-05-21
+vote_average 7.7
+vote_count 3294
+revenue 297372261
+tagline Silence is not enough.
+poster_url https://image.tmdb.org/t/p/original/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg
+adult false
+embedded_data
+genre
+['Science Fiction', 'Thriller', 'Horror']
+overview Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.
+
+
+meta_data
+id 619778
+original_language en
+original_title malignant
+popularity 233.546
+release_date 2021-09-01
+vote_average 7.1
+vote_count 979
+revenue 24640084
+tagline A new vision of terror.
+poster_url https://image.tmdb.org/t/p/original/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg
+adult false
+embedded_data
+genre
+['Horror', 'Mystery', 'Thriller']
+overview Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities with a mysterious tie to her past.
+
+
+meta_data
+id 883648
+original_language en
+original_title little big mouth
+popularity 239.444
+release_date 2021-10-22
+vote_average 4.9
+vote_count 13
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/zUaPkPM3epw15ys0htlPJM0Bu0N.jpg
+adult false
+embedded_data
+genre
+['Comedy']
+overview Kicked out of his band and home, a playful guitarist takes refuge with a bookkeeper, her son and dad. Is it possible to make sweet music together?
+
+
+meta_data
+id 739990
+original_language en
+original_title nightbooks
+popularity 227.322
+release_date 2021-09-15
+vote_average 6.6
+vote_count 183
+revenue 0
+tagline Write for your life.
+poster_url https://image.tmdb.org/t/p/original/ysJte1iqN8pFQ470tumnViB1wHP.jpg
+adult false
+embedded_data
+genre
+['Fantasy', 'Family', 'Horror']
+overview Alex, a boy obsessed with scary stories, is trapped by a witch in her modern, magical New York City apartment. His original hair-raising tales are the only thing keeping him safe as he desperately tries to find a way out of this twisted place.
+
+
+meta_data
+id 857702
+original_language en
+original_title lego star wars terrifying tales
+popularity 242.303
+release_date 2021-10-01
+vote_average 6.6
+vote_count 85
+revenue 0
+tagline Rest in pieces.
+poster_url https://image.tmdb.org/t/p/original/fYiaBZDjyXjvlY6EDZMAxIhBO1I.jpg
+adult false
+embedded_data
+genre
+['Family', 'Animation', 'Science Fiction', 'Comedy']
+overview Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has purchased Darth Vader’s castle and is renovating it into the galaxy’s first all-inclusive Sith-inspired luxury hotel.
+
+
+meta_data
+id 671
+original_language en
+original_title harry potter and the philosopher's stone
+popularity 234.446
+release_date 2001-11-16
+vote_average 7.9
+vote_count 21302
+revenue 976475550
+tagline Let the Magic Begin.
+poster_url https://image.tmdb.org/t/p/original/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg
+adult false
+embedded_data
+genre
+['Adventure', 'Fantasy']
+overview Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.
+
+
+meta_data
+id 315635
+original_language en
+original_title spider-man: homecoming
+popularity 266.445
+release_date 2017-07-05
+vote_average 7.4
+vote_count 17065
+revenue 880166924
+tagline Homework can wait. The city can't.
+poster_url https://image.tmdb.org/t/p/original/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg
+adult false
+embedded_data
+genre
+['Action', 'Adventure', 'Science Fiction', 'Drama']
+overview Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.
+
+
+meta_data
+id 385687
+original_language en
+original_title fast & furious 10
+popularity 211.849
+release_date 2023-04-06
+vote_average 0
+vote_count 0
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/2DyEk84XnbJEdPlGF43crxfdtHH.jpg
+adult false
+embedded_data
+genre
+['Action', 'Crime']
+overview The tenth installment in the Fast Saga.
+
+
+meta_data
+id 826914
+original_language en
+original_title muppets haunted mansion
+popularity 206.82
+release_date 2021-10-08
+vote_average 6.9
+vote_count 86
+revenue 0
+tagline Cue the light(ning)!
+poster_url https://image.tmdb.org/t/p/original/yTQbZCxZ4amGZKC9ETjTr7ZAH7L.jpg
+adult false
+embedded_data
+genre
+['Comedy', 'Family', 'TV Movie']
+overview Gonzo is challenged to spend one night in The Haunted Mansion on Halloween night.
+
+
+meta_data
+id 617502
+original_language en
+original_title jolt
+popularity 243.844
+release_date 2021-07-15
+vote_average 6.8
+vote_count 753
+revenue 0
+tagline You're in for a shock.
+poster_url https://image.tmdb.org/t/p/original/gYZAHan5CHPFXORpQMvOjCTug4E.jpg
+adult false
+embedded_data
+genre
+['Action', 'Comedy']
+overview Lindy is an acid-tongued woman with rage issues who controls her temper by shocking herself with an electrode vest. One day she makes a connection with Justin, who gives her a glimmer of hope for a shock-free future, but when he’s murdered she launches herself on a revenge-fueled rampage in pursuit of his killer.
+
+
+meta_data
+id 429617
+original_language en
+original_title spider-man: far from home
+popularity 273.535
+release_date 2019-06-28
+vote_average 7.5
+vote_count 10893
+revenue 1131927996
+tagline It’s time to step up.
+poster_url https://image.tmdb.org/t/p/original/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg
+adult false
+embedded_data
+genre
+['Action', 'Adventure', 'Science Fiction']
+overview Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.
+
+
+meta_data
+id 800497
+original_language en
+original_title werewolves within
+popularity 225.012
+release_date 2021-06-25
+vote_average 6.1
+vote_count 179
+revenue 250811
+tagline A whodunnit with teeth.
+poster_url https://image.tmdb.org/t/p/original/WoG2tvwanOMlU0qsbxpf9Qd3y.jpg
+adult false
+embedded_data
+genre
+['Comedy', 'Horror']
+overview When a proposed pipeline creates hostilities between residents of a small town, a newly-arrived forest ranger must keep the peace after a snowstorm confines the townspeople to an old lodge. But when a mysterious creature begins terrorizing the group, their worst tendencies and prejudices rise to the surface, and it is up to the ranger to keep the residents alive, both from each other and the monster which plagues them.
+
+
+meta_data
+id 537915
+original_language en
+original_title after
+popularity 239.301
+release_date 2019-04-11
+vote_average 7.2
+vote_count 6704
+revenue 69497587
+tagline After your first, life is never the same.
+poster_url https://image.tmdb.org/t/p/original/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg
+adult false
+embedded_data
+genre
+['Romance', 'Drama']
+overview Tessa Young is a dedicated student, dutiful daughter and loyal girlfriend to her high school sweetheart. Entering her first semester of college, Tessa's guarded world opens up when she meets Hardin Scott, a mysterious and brooding rebel who makes her question all she thought she knew about herself -- and what she wants out of life.
+
+
+meta_data
+id 587807
+original_language en
+original_title tom & jerry
+popularity 232.966
+release_date 2021-02-11
+vote_average 7.1
+vote_count 1831
+revenue 132000000
+tagline Best of enemies. Worst of friends.
+poster_url https://image.tmdb.org/t/p/original/8XZI9QZ7Pm3fVkigWJPbrXCMzjq.jpg
+adult false
+embedded_data
+genre
+['Comedy', 'Family', 'Animation']
+overview Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can’t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.
+
+
+meta_data
+id 559
+original_language en
+original_title spider-man 3
+popularity 236.031
+release_date 2007-05-01
+vote_average 6.3
+vote_count 10473
+revenue 890871626
+tagline The battle within.
+poster_url https://image.tmdb.org/t/p/original/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg
+adult false
+embedded_data
+genre
+['Fantasy', 'Action', 'Adventure']
+overview The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.
+
+
+meta_data
+id 585083
+original_language en
+original_title hotel transylvania: transformania
+popularity 190.917
+release_date 2022-01-14
+vote_average 0
+vote_count 0
+revenue 0
+tagline Change can be scary.
+poster_url https://image.tmdb.org/t/p/original/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg
+adult false
+embedded_data
+genre
+['Family', 'Animation', 'Fantasy', 'Comedy', 'Adventure']
+overview When Van Helsing's mysterious invention, the \"Monsterfication Ray,\" goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it's too late, and before they drive each other crazy.
+
+
+meta_data
+id 508442
+original_language en
+original_title soul
+popularity 229.134
+release_date 2020-12-25
+vote_average 8.2
+vote_count 7165
+revenue 136384442
+tagline Is all this living really worth dying for?
+poster_url https://image.tmdb.org/t/p/original/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Comedy', 'Fantasy', 'Family']
+overview Joe Gardner is a middle school teacher with a love for jazz music. After a successful audition at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.
+
+
+meta_data
+id 317442
+original_language ja
+original_title the last: naruto the movie
+popularity 244.198
+release_date 2014-12-06
+vote_average 7.9
+vote_count 1069
+revenue 16500000
+tagline 
+poster_url https://image.tmdb.org/t/p/original/bAQ8O5Uw6FedtlCbJTutenzPVKd.jpg
+adult false
+embedded_data
+genre
+['Action', 'Romance', 'Animation']
+overview Two years after the events of the Fourth Great Ninja War, the moon that Hagoromo Otsutsuki created long ago to seal away the Gedo Statue begins to descend towards the world, threatening to become a meteor that would destroy everything on impact. Amidst this crisis, a direct descendant of Kaguya Otsutsuki named Toneri Otsutsuki attempts to kidnap Hinata Hyuga but ends up abducting her younger sister Hanabi. Naruto and his allies now mount a rescue mission before finding themselves embroiled in a final battle to decide the fate of everything.
+
+
+meta_data
+id 567189
+original_language en
+original_title tom clancy's without remorse
+popularity 223.53
+release_date 2021-04-29
+vote_average 7.2
+vote_count 1641
+revenue 0
+tagline From the author of Rainbow Six.
+poster_url https://image.tmdb.org/t/p/original/6GCOpT8QcNzup09TAMmvvk22LTR.jpg
+adult false
+embedded_data
+genre
+['Action', 'Thriller']
+overview An elite Navy SEAL uncovers an international conspiracy while seeking justice for the murder of his pregnant wife.
+
+
+meta_data
+id 449406
+original_language en
+original_title vivo
+popularity 208.114
+release_date 2021-07-30
+vote_average 7.7
+vote_count 415
+revenue 0
+tagline One song can change everything.
+poster_url https://image.tmdb.org/t/p/original/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Family', 'Comedy']
+overview A music-loving kinkajou named Vivo embarks on the journey of a lifetime to fulfill his destiny and deliver a love song for an old friend.
+
+
+meta_data
+id 522241
+original_language en
+original_title the courier
+popularity 224.855
+release_date 2021-03-18
+vote_average 7.2
+vote_count 456
+revenue 24901420
+tagline Based on the incredible true story of a Welsh businessman turned spy.
+poster_url https://image.tmdb.org/t/p/original/zFIjKtZrzhmc7HecdFXXjsLR2Ig.jpg
+adult false
+embedded_data
+genre
+['Thriller', 'History', 'Drama']
+overview Cold War spy Greville Wynne and his Russian source try to put an end to the Cuban Missile Crisis.
+
+
+meta_data
+id 522241
+original_language en
+original_title the courier
+popularity 224.855
+release_date 2021-03-18
+vote_average 7.2
+vote_count 456
+revenue 24901420
+tagline Based on the incredible true story of a Welsh businessman turned spy.
+poster_url https://image.tmdb.org/t/p/original/cmC7bJZ5sCzx9ZsrlXOrYJfYtLc.jpg
+adult false
+embedded_data
+genre
+['Thriller', 'History', 'Drama']
+overview Cold War spy Greville Wynne and his Russian source try to put an end to the Cuban Missile Crisis.
+
+
+meta_data
+id 522241
+original_language en
+original_title the courier
+popularity 224.855
+release_date 2021-03-18
+vote_average 7.2
+vote_count 456
+revenue 24901420
+tagline Based on the incredible true story of a Welsh businessman turned spy.
+poster_url https://image.tmdb.org/t/p/original/ie2CLC0GC9mHL4rS8ADpX8uINIg.jpg
+adult false
+embedded_data
+genre
+['Thriller', 'History', 'Drama']
+overview Cold War spy Greville Wynne and his Russian source try to put an end to the Cuban Missile Crisis.
+
+
+meta_data
+id 637693
+original_language en
+original_title spirit untamed
+popularity 215.011
+release_date 2021-05-20
+vote_average 7.8
+vote_count 288
+revenue 17635215
+tagline Adventure awaits.
+poster_url https://image.tmdb.org/t/p/original/q4WaFHk9Vp1poc88X1szwFRtYc5.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Adventure', 'Family', 'Western']
+overview Lucky Prescott's life is changed forever when she moves from her home in the city to a small frontier town and befriends a wild mustang named Spirit.
+
+
+meta_data
+id 850818
+original_language en
+original_title barbie: big city, big dreams
+popularity 216.59
+release_date 2021-08-20
+vote_average 7.2
+vote_count 73
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/jeggetf6lrd0dhtcbqJH75Sik4K.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Music', 'Family']
+overview Barbie swaps the sunny shores of Malibu for the bright lights of Broadway to attend an excusive summer performing arts program and meets…Barbie!  Fast friends, the two discover they share more than a name as they explore New York City and all the amazing things they have in common.  As they compete for the coveted once-in-a-lifetime Spotlight Solo from Times Square, the friends discover competition isn’t all about winning, it’s about striving to be your best, overcoming doubts, and sharing the spotlight.
+
+
+meta_data
+id 581644
+original_language en
+original_title the misfits
+popularity 239.557
+release_date 2021-06-10
+vote_average 5.6
+vote_count 163
+revenue 0
+tagline They're not bad guys. They just steal from them.
+poster_url https://image.tmdb.org/t/p/original/dPOyYnCkRbWAEem85N3VFpQODf5.jpg
+adult false
+embedded_data
+genre
+['Action']
+overview After being recruited by a group of unconventional thieves, renowned criminal Richard Pace finds himself caught up in an elaborate gold heist that promises to have far-reaching implications on his life and the lives of countless others.
+
+
+meta_data
+id 841755
+original_language en
+original_title mortal kombat legends: battle of the realms
+popularity 200.515
+release_date 2021-08-30
+vote_average 8.1
+vote_count 177
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/ablrE8IbWcIrAxMmm4gnPn75AMS.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Action', 'Fantasy']
+overview The Earthrealm heroes must journey to the Outworld and fight for the survival of their homeland, invaded by the forces of evil warlord Shao Kahn, in the tournament to end all tournaments: the final Mortal Kombat.
+
+
+meta_data
+id 15092
+original_language en
+original_title crank: high voltage
+popularity 219.241
+release_date 2009-04-16
+vote_average 6
+vote_count 2115
+revenue 34560577
+tagline Stay Charged, Stay Alive!
+poster_url https://image.tmdb.org/t/p/original/tzTC4EEvF0OPL63frEiogxL2T8M.jpg
+adult false
+embedded_data
+genre
+['Action', 'Thriller', 'Crime']
+overview Chelios faces a Chinese mobster who has stolen his nearly indestructible heart and replaced it with a battery-powered ticker that requires regular jolts of electricity to keep working.
+
+
+meta_data
+id 522478
+original_language en
+original_title peter rabbit 2: the runaway
+popularity 211.56
+release_date 2021-03-25
+vote_average 7.4
+vote_count 426
+revenue 153000000
+tagline The garden was just the beginning.
+poster_url https://image.tmdb.org/t/p/original/cycDz68DtTjJrDJ1fV8EBq2Xdpb.jpg
+adult false
+embedded_data
+genre
+['Family', 'Comedy', 'Adventure', 'Animation', 'Fantasy']
+overview Bea, Thomas, and the rabbits have created a makeshift family, but despite his best efforts, Peter can’t seem to shake his mischievous reputation. Adventuring out of the garden, Peter finds himself in a world where his mischief is appreciated, but when his family risks everything to come looking for him, Peter must figure out what kind of bunny he wants to be.
+
+
+meta_data
+id 400160
+original_language en
+original_title the spongebob movie: sponge on the run
+popularity 200.485
+release_date 2020-08-14
+vote_average 7.7
+vote_count 2343
+revenue 4700000
+tagline They're Not in Bikini Bottom Anymore.
+poster_url https://image.tmdb.org/t/p/original/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg
+adult false
+embedded_data
+genre
+['Family', 'Animation', 'Fantasy', 'Adventure', 'Comedy']
+overview When his best friend Gary is suddenly snatched away, SpongeBob takes Patrick on a madcap mission far beyond Bikini Bottom to save their pink-shelled pal.
+
+
+meta_data
+id 559907
+original_language en
+original_title the green knight
+popularity 197.458
+release_date 2021-07-29
+vote_average 6.7
+vote_count 498
+revenue 18192220
+tagline When honor was everything.
+poster_url https://image.tmdb.org/t/p/original/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg
+adult false
+embedded_data
+genre
+['Adventure', 'Drama', 'Fantasy']
+overview An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur's reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.
+
+
+meta_data
+id 597433
+original_language en
+original_title beckett
+popularity 203.703
+release_date 2021-08-04
+vote_average 6.4
+vote_count 383
+revenue 0
+tagline Born to be murdered.
+poster_url https://image.tmdb.org/t/p/original/fBJducGBcmrcIOQdhm4BUBNDiMu.jpg
+adult false
+embedded_data
+genre
+['Action', 'Crime', 'Drama', 'Mystery']
+overview While vacationing in Greece, Beckett, becomes the target of a manhunt after a devastating car accident forces him to run for his life across the country to clear his name but tensions escalate as the authorities close in and political unrest mounts which makes Beckett fall even deeper into a dangerous web of conspiracy.
+
+
+meta_data
+id 871875
+original_language en
+original_title escape the undertaker
+popularity 204.213
+release_date 2021-10-05
+vote_average 5.3
+vote_count 26
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/dSF7INctoCQ4iPFRiRkZjIQIIVa.jpg
+adult false
+embedded_data
+genre
+['Horror', 'Mystery', 'Family']
+overview The Undertaker has set a trap for the decorated tag team The New Day at his mansion. What they don't know: The Undertaker's mansion is an extreme Haunted House, packed to the brim with supernatural challenges. It's up to viewers to decide the fate of these poor souls trying to survive the wrath of The Undertaker.
+
+
+meta_data
+id 674
+original_language en
+original_title harry potter and the goblet of fire
+popularity 212.082
+release_date 2005-11-16
+vote_average 7.8
+vote_count 16256
+revenue 895921036
+tagline Dark And Difficult Times Lie Ahead.
+poster_url https://image.tmdb.org/t/p/original/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg
+adult false
+embedded_data
+genre
+['Adventure', 'Fantasy', 'Family']
+overview When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools—the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named.
+
+
+meta_data
+id 656940
+original_language en
+original_title body brokers
+popularity 193.708
+release_date 2021-02-19
+vote_average 6.6
+vote_count 47
+revenue 0
+tagline Drugs. Rehab. Profit.
+poster_url https://image.tmdb.org/t/p/original/fNQUUrtlN79pDIMAPigX8NUvNW2.jpg
+adult false
+embedded_data
+genre
+['Thriller', 'Crime']
+overview Utah and his girlfriend Opal, are drug addicts living on the streets in rural Ohio. After getting recruited by body broker Wood, and offered treatment in Los Angeles, Wood takes Utah under his wing and introduces him to treatment center mogul Vin. Wood and Vin bring Utah in on their lucrative and illegal dealings, where saving lives comes second to the bottom line.
+
+
+meta_data
+id 672
+original_language en
+original_title harry potter and the chamber of secrets
+popularity 216.882
+release_date 2002-11-13
+vote_average 7.7
+vote_count 17203
+revenue 876688482
+tagline Hogwarts is back in session.
+poster_url https://image.tmdb.org/t/p/original/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg
+adult false
+embedded_data
+genre
+['Adventure', 'Fantasy']
+overview Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione’s magical abilities and courage.
+
+
+meta_data
+id 8960
+original_language en
+original_title hancock
+popularity 226.726
+release_date 2008-07-01
+vote_average 6.3
+vote_count 7665
+revenue 629443428
+tagline Bad Behavior. Bad Attitude. Real Hero.
+poster_url https://image.tmdb.org/t/p/original/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg
+adult false
+embedded_data
+genre
+['Fantasy', 'Action']
+overview Hancock is a down-and-out superhero who's forced to employ a PR expert to help repair his image when the public grows weary of all the damage he's inflicted during his lifesaving heroics. The agent's idea of imprisoning the antihero to make the world miss him proves successful, but will Hancock stick to his new sense of purpose or slip back into old habits?
+
+
+meta_data
+id 585216
+original_language en
+original_title escape room: tournament of champions
+popularity 174.019
+release_date 2021-07-01
+vote_average 6.9
+vote_count 709
+revenue 44888959
+tagline Winning was just the beginning.
+poster_url https://image.tmdb.org/t/p/original/jGYJyPzVgrVV2bgClI9uvEZgVLE.jpg
+adult false
+embedded_data
+genre
+['Horror', 'Thriller', 'Mystery']
+overview Six people unwittingly find themselves locked in another series of escape rooms, slowly uncovering what they have in common to survive as they discover all the games that they've played before.
+
+
+meta_data
+id 638045
+original_language en
+original_title the toll
+popularity 200.391
+release_date 2021-03-26
+vote_average 6.2
+vote_count 59
+revenue 0
+tagline You gotta pay the troll toll
+poster_url https://image.tmdb.org/t/p/original/q6vV6sSWz9cytmc8L9IEBjjyFmV.jpg
+adult false
+embedded_data
+genre
+['Thriller', 'Horror']
+overview A socially awkward driver and a weary passenger try to make it to their destination while being haunted by a supernatural threat.
+
+
+meta_data
+id 25769
+original_language en
+original_title carriers
+popularity 203.334
+release_date 2009-09-04
+vote_average 5.8
+vote_count 815
+revenue 5802422
+tagline The rules are simple. You break them, you die...
+poster_url https://image.tmdb.org/t/p/original/jxjnjHtHXgvjdhkwpelE9ZwVMg6.jpg
+adult false
+embedded_data
+genre
+['Action', 'Drama', 'Horror', 'Science Fiction', 'Thriller']
+overview A deadly virus has spread across the globe. Contagion is everywhere, no one is safe, and no one can be trusted. Four friends race through the back roads of the American West on their way to a secluded utopian beach in the Gulf of Mexico where they could peacefully wait out the pandemic. Their plans take a grim turn when their car breaks down on an isolated road starting a chain of events that will seal their fates.
+
+
+meta_data
+id 299534
+original_language en
+original_title avengers: endgame
+popularity 193.86
+release_date 2019-04-24
+vote_average 8.3
+vote_count 19434
+revenue 2797800564
+tagline Part of the journey is the end.
+poster_url https://image.tmdb.org/t/p/original/or06FN3Dka5tukK1e9sl16pB3iy.jpg
+adult false
+embedded_data
+genre
+['Adventure', 'Science Fiction', 'Action']
+overview After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.
+
+
+meta_data
+id 531219
+original_language en
+original_title roald dahl's the witches
+popularity 197.823
+release_date 2020-10-25
+vote_average 6.5
+vote_count 1941
+revenue 0
+tagline They're real!
+poster_url https://image.tmdb.org/t/p/original/ht6EfsM5hrsUPSR4ReJQFDVU71F.jpg
+adult false
+embedded_data
+genre
+['Family', 'Fantasy', 'Adventure', 'Comedy', 'Horror']
+overview In late 1967, a young orphaned boy goes to live with his loving grandma in the rural Alabama town of Demopolis. As the boy and his grandmother encounter some deceptively glamorous but thoroughly diabolical witches, she wisely whisks him away to a seaside resort. Regrettably, they arrive at precisely the same time that the world's Grand High Witch has gathered.
+
+
+meta_data
+id 673
+original_language en
+original_title harry potter and the prisoner of azkaban
+popularity 208.631
+release_date 2004-05-31
+vote_average 8
+vote_count 16913
+revenue 789804554
+tagline Something wicked this way comes.
+poster_url https://image.tmdb.org/t/p/original/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg
+adult false
+embedded_data
+genre
+['Adventure', 'Fantasy']
+overview Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.
+
+
+meta_data
+id 740925
+original_language en
+original_title no one gets out alive
+popularity 172.059
+release_date 2021-09-29
+vote_average 6
+vote_count 223
+revenue 0
+tagline Don’t try to leave. It’ll only make things worse.
+poster_url https://image.tmdb.org/t/p/original/bZUostLcCZYgcuBuAjmuSkBggiQ.jpg
+adult false
+embedded_data
+genre
+['Horror', 'Thriller', 'Mystery']
+overview An immigrant in search of the American dream is forced to take a room in a boarding house and soon finds herself in a nightmare from which she can't escape.
+
+
+meta_data
+id 24428
+original_language en
+original_title the avengers
+popularity 209.584
+release_date 2012-04-25
+vote_average 7.7
+vote_count 25642
+revenue 1518815515
+tagline Some assembly required.
+poster_url https://image.tmdb.org/t/p/original/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg
+adult false
+embedded_data
+genre
+['Science Fiction', 'Action', 'Adventure']
+overview When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!
+
+
+meta_data
+id 24428
+original_language en
+original_title the avengers
+popularity 209.584
+release_date 2012-04-25
+vote_average 7.7
+vote_count 25642
+revenue 1518815515
+tagline Some assembly required.
+poster_url https://image.tmdb.org/t/p/original/1p5thyQ4pCy876HpdvFARqJ62N9.jpg
+adult false
+embedded_data
+genre
+['Science Fiction', 'Action', 'Adventure']
+overview When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!
+
+
+meta_data
+id 814780
+original_language en
+original_title farm to fork to love
+popularity 194.391
+release_date 2021-04-29
+vote_average 5.2
+vote_count 5
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/wcttASR9kcbq7ZpVcMbm3mj3qGx.jpg
+adult false
+embedded_data
+genre
+['Romance', 'TV Movie']
+overview Alice, a young and talented sous chef at NY's top restaurant, receives an invitation to judge a food competition for a prestigious annual fundraiser.
+
+
+meta_data
+id 102382
+original_language en
+original_title the amazing spider-man 2
+popularity 221.297
+release_date 2014-04-16
+vote_average 6.4
+vote_count 9866
+revenue 708962323
+tagline No more secrets.
+poster_url https://image.tmdb.org/t/p/original/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg
+adult false
+embedded_data
+genre
+['Action', 'Adventure', 'Fantasy']
+overview For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.
+
+
+meta_data
+id 198663
+original_language en
+original_title the maze runner
+popularity 204.576
+release_date 2014-09-10
+vote_average 7.2
+vote_count 13987
+revenue 348319861
+tagline Remember. Survive. Run.
+poster_url https://image.tmdb.org/t/p/original/ode14q7WtDugFDp78fo9lCsmay9.jpg
+adult false
+embedded_data
+genre
+['Action', 'Mystery', 'Science Fiction', 'Thriller']
+overview Set in a post-apocalyptic world, young Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow “runners” for a shot at escape.
+
+
+meta_data
+id 11932
+original_language en
+original_title bride of chucky
+popularity 175.452
+release_date 1998-10-16
+vote_average 5.9
+vote_count 1302
+revenue 50671850
+tagline Chucky Gets Lucky.
+poster_url https://image.tmdb.org/t/p/original/mAGviFp1ufYM3EaZBSrjPiKPBt6.jpg
+adult false
+embedded_data
+genre
+['Horror', 'Comedy', 'Romance']
+overview Chucky hooks up with another murderous doll, the bridal gown-clad Tiffany, for a Route 66 murder spree with their unwitting hosts.
+
+
+meta_data
+id 11322
+original_language en
+original_title public enemies
+popularity 165.954
+release_date 2009-07-01
+vote_average 6.7
+vote_count 3432
+revenue 214104620
+tagline America's Most Wanted.
+poster_url https://image.tmdb.org/t/p/original/3KgtekisQBrHRsm2cD5UOB6Ce3k.jpg
+adult false
+embedded_data
+genre
+['Crime', 'History']
+overview Depression-era bank robber John Dillinger's charm and audacity endear him to much of America's downtrodden public, but he's also a thorn in the side of J. Edgar Hoover and the fledgling FBI. Desperate to capture the elusive outlaw, Hoover makes Dillinger his first Public Enemy Number One and assigns his top agent, Melvin Purvis, the task of bringing him in dead or alive.
+
+meta_data
+id 222935
+original_language en
+original_title the fault in our stars
+popularity 52.838
+release_date 2014-05-16
+vote_average 7.6
+vote_count 9638
+revenue 307166834
+tagline 
+poster_url https://image.tmdb.org/t/p/original/ep7dF4QR4Mm39LI958V0XbwE0hK.jpg
+adult false
+embedded_data
+genre
+['Romance', 'Drama']
+overview Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a patient named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.
+
+
+meta_data
+id 200727
+original_language en
+original_title love, rosie
+popularity 53.335
+release_date 2014-10-16
+vote_average 7.8
+vote_count 5218
+revenue 4439431
+tagline Right Love. Wrong Time.
+poster_url https://image.tmdb.org/t/p/original/rpD0t7DhzJVadnzgxSYrqljQTL2.jpg
+adult false
+embedded_data
+genre
+['Comedy', 'Romance']
+overview Since the moment they met at age 5, Rosie and Alex have been best friends, facing the highs and lows of growing up side by side. A fleeting shared moment, one missed opportunity, and the decisions that follow send their lives in completely different directions. As each navigates the complexities of life, love, and everything in between, they always find their way back to each other - but is it just friendship, or something more?
+
+
+meta_data
+id 141052
+original_language en
+original_title justice league
+popularity 61.587
+release_date 2017-11-15
+vote_average 6.2
+vote_count 10894
+revenue 657924295
+tagline 
+poster_url https://image.tmdb.org/t/p/original/eifGNCSDuxJeS1loAXil5bIGgvC.jpg
+adult false
+embedded_data
+genre
+['Action', 'Adventure', 'Fantasy', 'Science Fiction']
+overview Fuelled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.
+
+
+meta_data
+id 238
+original_language en
+original_title the godfather
+popularity 54.022
+release_date 1972-03-14
+vote_average 8.7
+vote_count 15020
+revenue 245066411
+tagline An offer you can't refuse.
+poster_url https://image.tmdb.org/t/p/original/eEslKSwcqmiNS6va24Pbxf2UKmJ.jpg
+adult false
+embedded_data
+genre
+['Drama', 'Crime']
+overview Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.
+
+
+meta_data
+id 545609
+original_language en
+original_title extraction
+popularity 53.949
+release_date 2020-04-24
+vote_average 7.4
+vote_count 4203
+revenue 0
+tagline When the mission ends, redemption begins
+poster_url https://image.tmdb.org/t/p/original/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg
+adult false
+embedded_data
+genre
+['Drama', 'Action', 'Thriller']
+overview Tyler Rake, a fearless mercenary who offers his services on the black market, embarks on a dangerous mission when he is hired to rescue the kidnapped son of a Mumbai crime lord.
+
+
+meta_data
+id 545609
+original_language en
+original_title extraction
+popularity 53.949
+release_date 2020-04-24
+vote_average 7.4
+vote_count 4203
+revenue 0
+tagline When the mission ends, redemption begins
+poster_url https://image.tmdb.org/t/p/original/96FQG1MyR9mJFcvPBZAdfsVqaMO.jpg
+adult false
+embedded_data
+genre
+['Drama', 'Action', 'Thriller']
+overview Tyler Rake, a fearless mercenary who offers his services on the black market, embarks on a dangerous mission when he is hired to rescue the kidnapped son of a Mumbai crime lord.
+
+
+meta_data
+id 80321
+original_language en
+original_title madagascar 3: europe's most wanted
+popularity 55.558
+release_date 2012-06-06
+vote_average 6.6
+vote_count 4860
+revenue 746921274
+tagline They Have One Shot to Get Back Home.
+poster_url https://image.tmdb.org/t/p/original/ekraj4ksvIKeuvQVEevEJkuybZd.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Family', 'Comedy', 'Adventure']
+overview Animal pals Alex, Marty, Melman, and Gloria are still trying to make it back to New York's Central Park Zoo. They are forced to take a detour to Europe to find the penguins and chimps who broke the bank at a Monte Carlo casino. When French animal-control officer Capitaine Chantel DuBois picks up their scent, Alex and company are forced to hide out in a traveling circus.
+
+
+meta_data
+id 68737
+original_language en
+original_title seventh son
+popularity 54.326
+release_date 2014-12-12
+vote_average 5.5
+vote_count 2076
+revenue 114178613
+tagline When darkness falls, the son will rise. When the son falls, the dark knight will rise.
+poster_url https://image.tmdb.org/t/p/original/7Q8DfXSjcFSSQDOxz1Sk865wNqI.jpg
+adult false
+embedded_data
+genre
+['Adventure', 'Fantasy']
+overview John Gregory, who is a seventh son of a seventh son and also the local spook, has protected the country from witches, boggarts, ghouls and all manner of things that go bump in the night. However John is not young anymore, and has been seeking an apprentice to carry on his trade. Most have failed to survive. The last hope is a young farmer's son named Thomas Ward. Will he survive the training to become the spook that so many others couldn't?
+
+
+meta_data
+id 506574
+original_language en
+original_title descendants 3
+popularity 78.113
+release_date 2019-08-02
+vote_average 7.9
+vote_count 1156
+revenue 0
+tagline You didn't think this was the end of the story, did you?
+poster_url https://image.tmdb.org/t/p/original/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg
+adult false
+embedded_data
+genre
+['Family', 'TV Movie', 'Music', 'Adventure', 'Fantasy']
+overview The teenagers of Disney's most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.
+
+
+meta_data
+id 667969
+original_language en
+original_title birds of paradise
+popularity 49.564
+release_date 2021-09-23
+vote_average 7
+vote_count 71
+revenue 0
+tagline Betrayal is a dance.
+poster_url https://image.tmdb.org/t/p/original/h3v0rsQvik8yMh3LStRiDu0GTHP.jpg
+adult false
+embedded_data
+genre
+['Drama']
+overview Two dancers at an elite ballet academy in Paris must compete for a contract to join the highly coveted Opéra National de Paris as they confront their competitive nature, sexual awakenings and how far they would go to win.
+
+
+meta_data
+id 732472
+original_language en
+original_title the amityville harvest
+popularity 42.836
+release_date 2020-10-20
+vote_average 7.4
+vote_count 15
+revenue 0
+tagline They're in his house. But he's in their minds.
+poster_url https://image.tmdb.org/t/p/original/lGYf7TKZPSvbI11IwoQBvbTCuq0.jpg
+adult false
+embedded_data
+genre
+['Horror']
+overview While staying at an aging manor to research its liquor-smuggling history, Christina and her documentary video team interview their spooky host Vincent—but no one can capture his image or voice on video. After shocking dreams and bloody encounters, the crew members fall under Victor’s hypnotic spell.
+
+
+meta_data
+id 11324
+original_language en
+original_title shutter island
+popularity 56.076
+release_date 2010-02-14
+vote_average 8.2
+vote_count 18779
+revenue 294800000
+tagline Some places never let you go.
+poster_url https://image.tmdb.org/t/p/original/kve20tXwUZpu4GUX8l6X7Z4jmL6.jpg
+adult false
+embedded_data
+genre
+['Drama', 'Thriller', 'Mystery']
+overview World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by his troubling visions and also by a mysterious doctor.
+
+
+meta_data
+id 302666
+original_language en
+original_title 10.0 earthquake
+popularity 57.477
+release_date 2014-10-15
+vote_average 4.9
+vote_count 80
+revenue 0
+tagline The end is near.
+poster_url https://image.tmdb.org/t/p/original/conlM8JWEaHnIPiBqTg7ciiiLLX.jpg
+adult false
+embedded_data
+genre
+['Drama', 'Adventure', 'Action']
+overview Los Angeles is about to be hit by a devastating earthquake, and time is running out to save the city from imminent danger.
+
+
+meta_data
+id 326359
+original_language en
+original_title frozen fever
+popularity 54.562
+release_date 2015-03-09
+vote_average 6.8
+vote_count 1566
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/mPrDJ7puYzPLG5kPM96iNszF2sM.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Family', 'Adventure', 'Comedy']
+overview On Anna's birthday, Elsa and Kristoff are determined to give her the best celebration ever, but Elsa's icy powers may put more than just the party at risk.
+
+
+meta_data
+id 9769
+original_language en
+original_title lolita
+popularity 50.557
+release_date 1997-09-27
+vote_average 7.1
+vote_count 1147
+revenue 1071255
+tagline A forbidden love. An unthinkable attraction. The ultimate price.
+poster_url https://image.tmdb.org/t/p/original/v7ZRAYz0WZrMQ1MH34cSFvC8drq.jpg
+adult false
+embedded_data
+genre
+['Drama']
+overview Urbane professor Humbert Humbert marries a New England widow to be near her nymphet daughter.
+
+
+meta_data
+id 9769
+original_language en
+original_title lolita
+popularity 50.557
+release_date 1997-09-27
+vote_average 7.1
+vote_count 1147
+revenue 1071255
+tagline A forbidden love. An unthinkable attraction. The ultimate price.
+poster_url https://image.tmdb.org/t/p/original/8Puqbeh0D95DpXFWep1rmH78btu.jpg
+adult false
+embedded_data
+genre
+['Drama']
+overview Urbane professor Humbert Humbert marries a New England widow to be near her nymphet daughter.
+
+
+meta_data
+id 359724
+original_language en
+original_title ford v ferrari
+popularity 60.53
+release_date 2019-11-13
+vote_average 8
+vote_count 5183
+revenue 225508210
+tagline They took the American dream for a ride
+poster_url https://image.tmdb.org/t/p/original/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg
+adult false
+embedded_data
+genre
+['Drama', 'Action', 'History']
+overview American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.
+
+
+meta_data
+id 9291
+original_language en
+original_title the longest yard
+popularity 41.643
+release_date 2005-05-27
+vote_average 6.6
+vote_count 2501
+revenue 190320568
+tagline If you can't get out, get even.
+poster_url https://image.tmdb.org/t/p/original/nbKcVBcxF96ARW2oKHqDYAcLdu.jpg
+adult false
+embedded_data
+genre
+['Comedy']
+overview Pro quarter-back, Paul Crewe and former college champion and coach, Nate Scarboro are doing time in the same prison. Asked to put together a team of inmates to take on the guards, Crewe enlists the help of Scarboro to coach the inmates to victory in a football game 'fixed' to turn out quite another way.
+
+
+meta_data
+id 9291
+original_language en
+original_title the longest yard
+popularity 41.643
+release_date 2005-05-27
+vote_average 6.6
+vote_count 2501
+revenue 190320568
+tagline If you can't get out, get even.
+poster_url https://image.tmdb.org/t/p/original/fejSpoFU4sq2g6n1JA2NY3KjRxW.jpg
+adult false
+embedded_data
+genre
+['Comedy']
+overview Pro quarter-back, Paul Crewe and former college champion and coach, Nate Scarboro are doing time in the same prison. Asked to put together a team of inmates to take on the guards, Crewe enlists the help of Scarboro to coach the inmates to victory in a football game 'fixed' to turn out quite another way.
+
+
+meta_data
+id 468225
+original_language en
+original_title the starling
+popularity 53.632
+release_date 2021-09-17
+vote_average 7.2
+vote_count 113
+revenue 0
+tagline Hope Starts Small
+poster_url https://image.tmdb.org/t/p/original/gPkaPGNbjZCeRurSYGi0JD63DBa.jpg
+adult false
+embedded_data
+genre
+['Comedy', 'Drama']
+overview A woman adjusting to life after a loss contends with a feisty bird that's taken over her garden — and a husband who's struggling to find a way forward.
+
+
+meta_data
+id 7342
+original_language en
+original_title carrie
+popularity 62.71
+release_date 2002-11-04
+vote_average 6.2
+vote_count 336
+revenue 0
+tagline If only they knew she had the power
+poster_url https://image.tmdb.org/t/p/original/knjeEeeyIwDkUtZwDfJOcUIuNdB.jpg
+adult false
+embedded_data
+genre
+['Drama', 'Horror', 'TV Movie']
+overview Carrie White is a lonely and painfully shy teenage girl with telekinetic powers who is slowly pushed to the edge of insanity by frequent bullying from both classmates at her school, and her own religious, but abusive, mother.
+
+
+meta_data
+id 7342
+original_language en
+original_title carrie
+popularity 62.71
+release_date 2002-11-04
+vote_average 6.2
+vote_count 336
+revenue 0
+tagline If only they knew she had the power
+poster_url https://image.tmdb.org/t/p/original/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg
+adult false
+embedded_data
+genre
+['Drama', 'Horror', 'TV Movie']
+overview Carrie White is a lonely and painfully shy teenage girl with telekinetic powers who is slowly pushed to the edge of insanity by frequent bullying from both classmates at her school, and her own religious, but abusive, mother.
+
+
+meta_data
+id 7342
+original_language en
+original_title carrie
+popularity 62.71
+release_date 2002-11-04
+vote_average 6.2
+vote_count 336
+revenue 0
+tagline If only they knew she had the power
+poster_url https://image.tmdb.org/t/p/original/uc3OvgmbnYaS5Y0BOjSmC1EmSz1.jpg
+adult false
+embedded_data
+genre
+['Drama', 'Horror', 'TV Movie']
+overview Carrie White is a lonely and painfully shy teenage girl with telekinetic powers who is slowly pushed to the edge of insanity by frequent bullying from both classmates at her school, and her own religious, but abusive, mother.
+
+
+meta_data
+id 675353
+original_language en
+original_title sonic the hedgehog 2
+popularity 58.089
+release_date 2022-03-31
+vote_average 0
+vote_count 0
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg
+adult false
+embedded_data
+genre
+['Family', 'Science Fiction', 'Comedy', 'Action']
+overview When the evil Dr. Robotnik and his sidekick Knuckles make an unexpected visit to Earth on the search for an all-powerful emerald, Sonic joins forces with a new ally named Tails and embarks on a journey to find the emerald before it falls into the wrong hands.
+
+
+meta_data
+id 243688
+original_language en
+original_title poltergeist
+popularity 40.614
+release_date 2015-05-20
+vote_average 5.2
+vote_count 1915
+revenue 95437994
+tagline They're Here. And They Know What Scares You.
+poster_url https://image.tmdb.org/t/p/original/A1ymtbzatZp94Z49ZOBb8JGXOBB.jpg
+adult false
+embedded_data
+genre
+['Horror', 'Thriller']
+overview Legendary filmmaker Sam Raimi and director Gil Kenan reimagine and contemporize the classic tale about a family whose suburban home is invaded by angry spirits. When the terrifying apparitions escalate their attacks and take the youngest daughter, the family must come together to rescue her.
+
+
+meta_data
+id 243688
+original_language en
+original_title poltergeist
+popularity 40.614
+release_date 2015-05-20
+vote_average 5.2
+vote_count 1915
+revenue 95437994
+tagline They're Here. And They Know What Scares You.
+poster_url https://image.tmdb.org/t/p/original/xPazCcKp62IshnLVf9BLAjf9vgC.jpg
+adult false
+embedded_data
+genre
+['Horror', 'Thriller']
+overview Legendary filmmaker Sam Raimi and director Gil Kenan reimagine and contemporize the classic tale about a family whose suburban home is invaded by angry spirits. When the terrifying apparitions escalate their attacks and take the youngest daughter, the family must come together to rescue her.
+
+
+meta_data
+id 350
+original_language en
+original_title the devil wears prada
+popularity 48.353
+release_date 2006-06-30
+vote_average 7.4
+vote_count 9624
+revenue 326551094
+tagline Meet Andy Sachs. A million girls would kill to have her job. She's not one of them.
+poster_url https://image.tmdb.org/t/p/original/8912AsVuS7Sj915apArUFbv6F9L.jpg
+adult false
+embedded_data
+genre
+['Comedy', 'Drama', 'Romance']
+overview Andy moves to New York to work in the fashion industry. Her boss is extremely demanding, cruel and won't let her succeed if she doesn't fit into the high class elegant look of their magazine.
+
+
+meta_data
+id 618344
+original_language en
+original_title justice league dark: apokolips war
+popularity 52.432
+release_date 2020-05-05
+vote_average 8.4
+vote_count 1070
+revenue 0
+tagline The war to end all wars.
+poster_url https://image.tmdb.org/t/p/original/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Action', 'Adventure', 'Fantasy', 'Science Fiction']
+overview Earth is decimated after intergalactic tyrant Darkseid has devastated the Justice League in a poorly executed war by the DC Super Heroes. Now the remaining bastions of good – the Justice League, Teen Titans, Suicide Squad and assorted others – must regroup, strategize and take the war to Darkseid in order to save the planet and its surviving inhabitants.
+
+
+meta_data
+id 346672
+original_language en
+original_title underworld: blood wars
+popularity 48.742
+release_date 2016-11-24
+vote_average 5.8
+vote_count 3027
+revenue 81093313
+tagline Protect the Bloodline
+poster_url https://image.tmdb.org/t/p/original/sDupSRbqxJhSrjKQI33w7Fd8Owz.jpg
+adult false
+embedded_data
+genre
+['Fantasy', 'Action', 'Thriller']
+overview Vampire death dealer Selene fends off brutal attacks from both the Lycan clan and the Vampire faction that betrayed her. With her only allies, David and his father Thomas, she must stop the eternal war between Lycans and Vampires, even if it means she has to make the ultimate sacrifice.
+
+
+meta_data
+id 56292
+original_language en
+original_title mission: impossible - ghost protocol
+popularity 58.429
+release_date 2011-12-07
+vote_average 7
+vote_count 7952
+revenue 694713380
+tagline No Plan. No Backup. No Choice.
+poster_url https://image.tmdb.org/t/p/original/7GCKNRbzcA4rJXAKoE8KS9IDnZP.jpg
+adult false
+embedded_data
+genre
+['Action', 'Thriller', 'Adventure']
+overview Ethan Hunt and his team are racing against time to track down a dangerous terrorist named Hendricks, who has gained access to Russian nuclear launch codes and is planning a strike on the United States. An attempt to stop him ends in an explosion causing severe destruction to the Kremlin and the IMF to be implicated in the bombing, forcing the President to disavow them. No longer being aided by the government, Ethan and his team chase Hendricks around the globe, although they might still be too late to stop a disaster.
+
+
+meta_data
+id 4523
+original_language en
+original_title enchanted
+popularity 59.458
+release_date 2007-11-20
+vote_average 6.7
+vote_count 4377
+revenue 340487652
+tagline This fairytale princess is about to meet a real Prince Charming.
+poster_url https://image.tmdb.org/t/p/original/8KCNzCArLlvLdQoHx6npua2VSVc.jpg
+adult false
+embedded_data
+genre
+['Comedy', 'Family', 'Fantasy', 'Romance']
+overview The beautiful princess Giselle is banished by an evil queen from her magical, musical animated land and finds herself in the gritty reality of the streets of modern-day Manhattan. Shocked by this strange new environment that doesn't operate on a "happily ever after" basis, Giselle is now adrift in a chaotic world badly in need of enchantment. But when Giselle begins to fall in love with a charmingly flawed divorce lawyer who has come to her aid - even though she is already promised to a perfect fairy tale prince back home - she has to wonder: Can a storybook view of romance survive in the real world?
+
+
+meta_data
+id 16577
+original_language en
+original_title astro boy
+popularity 52.859
+release_date 2009-10-15
+vote_average 6.3
+vote_count 1160
+revenue 19551067
+tagline Have a blast.
+poster_url https://image.tmdb.org/t/p/original/fYOJaaCpqq1NatziVJntmsXXDi8.jpg
+adult false
+embedded_data
+genre
+['Animation', 'Action', 'Family', 'Science Fiction']
+overview Set in the futuristic Metro City, Astro Boy (Atom) is a young robot with incredible powers created by a brilliant scientist in the image of the son he had lost. Unable to fulfill his creator's expectations, Astro embarks on a journey in search of acceptance, experiencing betrayal and a netherworld of robot gladiators, before returning to save Metro City and reconcile with the father who rejected him.
+
+
+meta_data
+id 273477
+original_language en
+original_title scouts guide to the zombie apocalypse
+popularity 56.686
+release_date 2015-10-23
+vote_average 6.5
+vote_count 1419
+revenue 14860766
+tagline Always bring protection.
+poster_url https://image.tmdb.org/t/p/original/lUKvvSnjFlazrdh6wyHxHrdMknD.jpg
+adult false
+embedded_data
+genre
+['Comedy', 'Horror']
+overview Three scouts and lifelong friends join forces with one badass cocktail waitress to become the world’s most unlikely team of heroes.  When their peaceful town is ravaged by a zombie invasion, they’ll fight for the badge of a lifetime and put their scouting skills to the test to save mankind from the undead.
+
+
+meta_data
+id 302699
+original_language en
+original_title central intelligence
+popularity 50.965
+release_date 2016-06-15
+vote_average 6.4
+vote_count 4567
+revenue 216972543
+tagline Saving the world takes a little Hart and a big Johnson.
+poster_url https://image.tmdb.org/t/p/original/7Ou0TRJLi72AwLEUlo7Kym4XuNB.jpg
+adult false
+embedded_data
+genre
+['Action', 'Comedy', 'Mystery', 'Crime']
+overview After he reunites with an old pal through Facebook, a mild-mannered accountant is lured into the world of international espionage.
+
+
+meta_data
+id 648990
+original_language es
+original_title la casa
+popularity 55.255
+release_date 2020-01-30
+vote_average 6.5
+vote_count 69
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/fvTGWaQejnHQBZbEOrdbb38NBTC.jpg
+adult false
+embedded_data
+genre
+['Horror']
+overview Responding to an urgent call for help, a police officer becomes trapped by the evil spirits of a cursed house.
+
+
+meta_data
+id 215
+original_language en
+original_title saw ii
+popularity 48.8
+release_date 2005-10-28
+vote_average 6.6
+vote_count 3944
+revenue 152925093
+tagline Oh Yes... There Will Be Blood.
+poster_url https://image.tmdb.org/t/p/original/gTnaTysN8HsvVQqTRUh8m35mmUA.jpg
+adult false
+embedded_data
+genre
+['Horror']
+overview When a new murder victim is discovered with all the signs of Jigsaw's hand, Detective Eric Matthews begins a full investigation and apprehends Jigsaw with little effort. But for Jigsaw, getting caught is just another part of his plan. Eight more of his victims are already fighting for their lives and now it's time for Matthews to join the game.
+
+
+meta_data
+id 511679
+original_language es
+original_title héctor el father: conocerás la verdad
+popularity 52.918
+release_date 2018-03-22
+vote_average 7.7
+vote_count 84
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/tkP0FzEivLxsUYt8BlaL8Sh7ceY.jpg
+adult false
+embedded_data
+genre
+['Drama', 'Documentary']
+overview This autobiography of Hector Delgado runs from his childhood to become one of the greatest exponents of the urban genre, but the results of that life did not please him and led him to try to take his life  .After being victim of a firefight at a service station in Aguada, a city hall in Puerto Rico, he stopped earning at least two hundred American dollars for presentation and being "devout of Jesus"
+
+
+meta_data
+id 874562
+original_language en
+original_title swallow
+popularity 55.939
+release_date 2021-10-01
+vote_average 4.7
+vote_count 3
+revenue 0
+tagline 
+poster_url https://image.tmdb.org/t/p/original/dS6ZFMGJx7I1JZ6lFoRLP2pQYh0.jpg
+adult false
+embedded_data
+genre
+['Drama', 'History', 'Thriller', 'Crime']
+overview Set in the 1980s, Tolani Ajao is a bank secretary in Lagos, who finds herself persuaded by her friend Rose Adamson to enter the world of drug trafficking.
+
+
+meta_data
+id 37735
+original_language en
+original_title easy a
+popularity 57.331
+release_date 2010-09-16
+vote_average 6.8
+vote_count 5690
+revenue 75026327
+tagline A comedy about a good girl a small favor and a big rumor
+poster_url https://image.tmdb.org/t/p/original/v5f1qO6NJnxWgONgkYg21TW39DT.jpg
+adult false
+embedded_data
+genre
+['Comedy']
+overview Olive, an average high school student, sees her below-the-radar existence turn around overnight once she decides to use the school's gossip grapevine to advance her social standing. Now her classmates are turning against her and the school board is becoming concerned, including her favorite teacher and the distracted guidance counselor. With the support of her hilariously idiosyncratic parents and a little help from a long-time crush, Olive attempts to take on her notorious new identity and crush the rumor mill once and for all.
+
+
+meta_data
+id 68724
+original_language en
+original_title elysium
+popularity 52.059
+release_date 2013-08-07
+vote_average 6.5
+vote_count 7150
+revenue 286140700
+tagline He can save us all.
+poster_url https://image.tmdb.org/t/p/original/aRjuJuPXHtVs6YegfeeQWXGRs1E.jpg
+adult false
+embedded_data
+genre
+['Science Fiction', 'Action', 'Drama', 'Thriller']
+overview In the year 2159, two classes of people exist: the very wealthy who live on a pristine man-made space station called Elysium, and the rest, who live on an overpopulated, ruined Earth. Secretary Rhodes, a hard line government ofﬁcial, will stop at nothing to enforce anti-immigration laws and preserve the luxurious lifestyle of the citizens of Elysium. That doesn’t stop the people of Earth from trying to get in, by any means they can. When unlucky Max is backed into a corner, he agrees to take on a daunting mission that, if successful, will not only save his life, but could bring equality to these polarized worlds.
