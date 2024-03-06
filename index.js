@@ -203,7 +203,7 @@ app.post("/recommendations", async (req, res) => {
 });
 
 app.listen(3000, () => {
-  console.log("Server booted");
+  console.log("Server booted ");
 });
 
 // console.log(result);
